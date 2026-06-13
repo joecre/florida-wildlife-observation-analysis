@@ -52,3 +52,33 @@ An interactive Power BI dashboard was developed to explore wildlife observation 
 Dashboard File
 
 [Download the Power BI Dashboard](dashboard/Florida_Wildlife_Observation_Explorer.pbix)
+
+## Interactive Wildlife Prediction App
+
+This project includes an interactive Streamlit application that allows users to predict wildlife species observations across Florida.
+
+### Features
+
+* Interactive Florida map using Folium
+* Automatic county detection using GeoPandas
+* Random Forest classification model
+* Top 3 predicted species with confidence scores
+* Geospatial wildlife prediction based on location and seasonality
+
+### How It Works
+
+1. Click a location on the Florida map.
+2. The application automatically determines the county.
+3. Select the month and year.
+4. The trained Random Forest model generates species predictions.
+5. The application displays the top predicted species and confidence scores.
+
+### Technologies
+
+* Streamlit
+* Folium
+* GeoPandas
+* Scikit-learn
+* Pandas
+* Python
+
