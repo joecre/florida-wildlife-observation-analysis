@@ -84,4 +84,6 @@ This project includes an interactive Streamlit application that allows users to 
 
 ## Live Application
 
-[Launch the Streamlit App]([YOUR_STREAMLIT_URL_HERE](https://florida-wildlife.streamlit.app/))
+## Live Application
+
+[Launch the Streamlit App](https://florida-wildlife.streamlit.app/)
