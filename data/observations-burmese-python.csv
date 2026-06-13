@@ -1,0 +1,678 @@
+id,observed_on,place_guess,latitude,longitude,place_county_name,place_state_name,scientific_name,common_name
+416664,2012-01-22,"Florida, US",25.7487936245,-80.73642201,Miami-Dade,Florida,Python bivittatus,Burmese Python
+515110,2014-01-26,"Florida, US",25.2520249222,-80.5090094966,Miami-Dade,Florida,Python bivittatus,Burmese Python
+553763,2014-03-02,"Florida, US",25.8568259536,-80.7421862345,Miami-Dade,Florida,Python bivittatus,Burmese Python
+1842481,2015-08-06,Big Cypress National Preserve,25.785549,-81.00769,Monroe,Florida,Python bivittatus,Burmese Python
+2585187,2015-11-04,"Everglades National Park, Everglades, FL, US",25.212945,-80.855131,Miami-Dade,Florida,Python bivittatus,Burmese Python
+3845782,2016-07-25,"Miami-Dade County, FL, USA",25.7619056667,-80.6792526111,Miami-Dade,Florida,Python bivittatus,Burmese Python
+4120453,2016-09-15,"Florida, US",25.8285473552,-80.8885674972,Collier,Florida,Python bivittatus,Burmese Python
+4619755,2007-02-07,"Miami-Dade County, FL, USA",25.4976037832,-80.771420002,Miami-Dade,Florida,Python bivittatus,Burmese Python
+4619843,2009-02-20,"Everglades National Park, Miami-Dade County, Fl, USA",25.5733514113,-80.7591301203,Miami-Dade,Florida,Python bivittatus,Burmese Python
+5198122,2017-02-28,"54400 South Dixie Highway Key Largo, FL 33037",25.26667343,-80.44011658,Miami-Dade,Florida,Python bivittatus,Burmese Python
+5419079,2017-03-13,"Everglades National Park, Homestead, FL, US",25.4028142865,-80.6153291182,Miami-Dade,Florida,Python bivittatus,Burmese Python
+6002777,2017-04-28,"Florida, US",26.1091260729,-80.5347888103,Broward,Florida,Python bivittatus,Burmese Python
+6353174,2015-11-07,"17922–18454 SW 8th St, Miami, FL, US",25.7609088758,-80.4856027848,Miami-Dade,Florida,Python bivittatus,Burmese Python
+6353199,2016-07-21,"10000–10100 SW 177th Ave, Miami, FL, US",25.6699856534,-80.4812236615,Miami-Dade,Florida,Python bivittatus,Burmese Python
+6426091,2014-12-07,"Card Sound Rd, Homestead, FL, US",25.3633417341,-80.4280818194,Miami-Dade,Florida,Python bivittatus,Burmese Python
+7054721,2017-07-13,"Miami-Dade County, FL, USA",25.2318598821,-80.8229827881,Miami-Dade,Florida,Python bivittatus,Burmese Python
+7107820,2017-07-14,"35197–35269 SW 8th St, Miami, FL, US",25.7620383333,-80.8028116667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+7394608,2016-10-17,"Everglades National Park, Everglades, FL, US",25.7476716667,-80.7669666667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+7617670,2017-03-11,"1493–1499 Merrihue Dr, Naples, FL, US",26.1671259906,-81.7877103014,Collier,Florida,Python bivittatus,Burmese Python
+8588506,2017-06-12,"Miami-Dade County, FL, USA",25.9514351209,-80.4320240021,Miami-Dade,Florida,Python bivittatus,Burmese Python
+9341560,2016-06-07,"Big Cypress, FL, USA",25.8603941526,-81.0682396166,Collier,Florida,Python bivittatus,Burmese Python
+9341561,2016-06-08,"Big Cypress, FL, USA",25.8574760511,-81.039634858,Collier,Florida,Python bivittatus,Burmese Python
+9341562,2016-06-08,"Miami-Dade County, FL, USA",25.7609477468,-80.6682917057,Miami-Dade,Florida,Python bivittatus,Burmese Python
+9341563,2016-06-09,"Miami-Dade County, FL, USA",25.7609477846,-80.6618772238,Miami-Dade,Florida,Python bivittatus,Burmese Python
+9440357,2018-01-10,"Everglades National Park, Homestead, FL, US",25.3843166667,-80.80832,Miami-Dade,Florida,Python bivittatus,Burmese Python
+9841679,2018-01-30,"SW 97th Ave, Homestead, FL 33032, USA",25.5184726715,-80.34715271,Miami-Dade,Florida,Python bivittatus,Burmese Python
+9904052,2016-02-27,"Miami-Dade County, FL, USA",25.2997824578,-80.7989501953,Miami-Dade,Florida,Python bivittatus,Burmese Python
+11208371,2018-04-19,"Homestead, FL  33030, Homestead, FL, US",25.4224083333,-80.5895783333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+11406376,2009-03-29,"Miami-Dade County, FL, USA",25.5516034,-80.6326916,Miami-Dade,Florida,Python bivittatus,Burmese Python
+13132131,2018-05-26,"Hillsborough County, FL, USA",28.0746854597,-82.3744484034,Hillsborough,Florida,Python bivittatus,Burmese Python
+13190876,2009-03-18,"Miami-Dade County, FL, USA",25.408416,-80.48163,Miami-Dade,Florida,Python bivittatus,Burmese Python
+13884389,2017-08-04,"Everglades National Park, US-FL, US",25.2883068429,-80.6554383438,Miami-Dade,Florida,Python bivittatus,Burmese Python
+14175230,2018-06-27,"Broward County, US-FL, US",25.971472,-80.431944,Broward,Florida,Python bivittatus,Burmese Python
+14517752,2006-12-13,"Homestead, FL 33030, USA",25.3823998,-80.6064611,Miami-Dade,Florida,Python bivittatus,Burmese Python
+15030460,2018-08-01,"17690 SW 8th St, Miami, FL 33194, USA",25.7611312866,-80.4725418091,Miami-Dade,Florida,Python bivittatus,Burmese Python
+15030473,2018-08-01,"16400 SW 8th St, Miami, FL 33194, USA",25.7611179352,-80.4629058838,Miami-Dade,Florida,Python bivittatus,Burmese Python
+15271090,2013-05-30,"Miami-Dade County, FL, USA",25.7600452857,-80.6737420381,Miami-Dade,Florida,Python bivittatus,Burmese Python
+15332103,2018-08-09,"21700–21716 SW 216th St, Miami, FL, US",25.564305,-80.5449,Miami-Dade,Florida,Python bivittatus,Burmese Python
+16106938,2018-08-21,"Big Cypress National Preserve, Ochopee, FL, US",25.8510378439,-81.0810463971,Collier,Florida,Python bivittatus,Burmese Python
+17466089,2017-10-13,"Everglades National Park, Homestead, FL, US",25.2570020913,-80.7986110297,Miami-Dade,Florida,Python bivittatus,Burmese Python
+18515811,2018-11-19,"Florida, USA",25.2866149,-80.8986502,Monroe,Florida,Python bivittatus,Burmese Python
+19249825,2018-12-27,"Everglades National Park, Homestead, FL, US",25.6730866667,-80.7609783333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+19257689,2018-12-27,"27312-27300 County Rd 841, Ochopee, FL 34141, USA",25.9199084724,-81.3107901067,Collier,Florida,Python bivittatus,Burmese Python
+19276988,2018-12-28,"Everglades National Park, Homestead, FL, US",25.3130493198,-80.7321486183,Miami-Dade,Florida,Python bivittatus,Burmese Python
+19417587,2019-01-04,"Everglades National Park, Homestead, FL, US",25.690912684,-80.7595647889,Miami-Dade,Florida,Python bivittatus,Burmese Python
+19660349,2009-11-11,"Miami-Dade County, FL, USA",25.4481622953,-80.7850938761,Miami-Dade,Florida,Python bivittatus,Burmese Python
+20065847,2019-02-03,"Miami-Dade County, FL, USA",25.7538474551,-80.497814304,Miami-Dade,Florida,Python bivittatus,Burmese Python
+20792474,2019-02-23,"31000 Tamiami Trl E, Naples, FL, US",25.912558502,-81.3770072912,Collier,Florida,Python bivittatus,Burmese Python
+20891981,2014-08-20,"Miami-Dade County, FL, USA",25.2699898257,-80.6483398891,Miami-Dade,Florida,Python bivittatus,Burmese Python
+22727638,2018-07-01,"Everglades National Park, Homestead, FL, US",25.332455,-80.8015883333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+23492728,2017-12-01,"33034, Homestead, FL, US",25.3666,-80.464905,Miami-Dade,Florida,Python bivittatus,Burmese Python
+24975031,2019-04-15,"Everglades National Park, Homestead, FL, US",25.2122833333,-80.8562916667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+25336615,2018-06-20,"10738 County Road 905, Key Largo, FL, US",25.1825083333,-80.3642583333,Monroe,Florida,Python bivittatus,Burmese Python
+25350471,2018-11-29,"Crocodile Lake Wildlife Refuge, Key Largo, FL, US",25.2616966667,-80.3146883333,Monroe,Florida,Python bivittatus,Burmese Python
+25350824,2018-12-15,"Crocodile Lake Wildlife Refuge, Key Largo, FL, US",25.19405,-80.3565966667,Monroe,Florida,Python bivittatus,Burmese Python
+25474300,2019-05-11,"North Key Largo, FL 33037, USA",25.1782651226,-80.3654279055,Monroe,Florida,Python bivittatus,Burmese Python
+25831671,2019-05-26,"33820–33852 SW 8th St, Homestead, FL, US",25.7614575888,-80.7701901445,Miami-Dade,Florida,Python bivittatus,Burmese Python
+26046358,2017-12-17,"Florida, US",25.4623143748,-80.613868755,Miami-Dade,Florida,Python bivittatus,Burmese Python
+28508621,2019-07-05,"Everglades National Park, Homestead, FL, US",25.2111833333,-80.858025,Miami-Dade,Florida,Python bivittatus,Burmese Python
+28510935,2019-07-07,"Everglades National Park, Homestead, FL, US",25.3954716667,-80.7980116667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+29926113,2019-07-31,"S Dixie Hwy, Florida City, FL, US",25.4614968195,-80.4753411133,Miami-Dade,Florida,Python bivittatus,Burmese Python
+30018781,2019-07-13,"Everglades National Park, , FL, US",25.2018133333,-80.8732833333,Monroe,Florida,Python bivittatus,Burmese Python
+30019840,2019-07-31,"Miami-Dade County, FL, USA",25.4034359671,-80.6089971587,Miami-Dade,Florida,Python bivittatus,Burmese Python
+30022384,2019-07-15,"39111–39199 Ingraham Hwy, Homestead, FL, US",25.4045,-80.5273666667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+30022483,2019-07-24,"Everglades National Park, Homestead, FL, US",25.34128,-80.81488,Miami-Dade,Florida,Python bivittatus,Burmese Python
+30367984,2019-06-28,"Miami-Dade County, FL, USA",25.360862951,-80.8207856635,Miami-Dade,Florida,Python bivittatus,Burmese Python
+32977747,2019-09-18,"I-75 S, Fort Lauderdale, FL, US",26.1625695,-80.805205,Broward,Florida,Python bivittatus,Burmese Python
+33151127,2019-09-20,"Monroe County, FL, USA",25.7601971034,-81.0685096968,Monroe,Florida,Python bivittatus,Burmese Python
+33590987,2019-07-23,"Miami-Dade County, FL, USA",25.4218921661,-80.6783981323,Miami-Dade,Florida,Python bivittatus,Burmese Python
+33667729,2016-08-06,"Everglades National Park, Homestead, FL, US",25.410045,-80.6216883333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+33733052,2014-08-03,"Miami-Dade County, US-FL, US",25.4444803698,-80.4604855531,Miami-Dade,Florida,Python bivittatus,Burmese Python
+33863489,2017-12-08,everglades np,25.326964,-80.797714,Miami-Dade,Florida,Python bivittatus,Burmese Python
+34436087,2019-10-15,"Everglades National Park, Homestead, FL, US",25.256625,-80.7984083333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+34598903,2019-10-18,"Everglades National Park, Monroe County, US-FL, US",25.0519987099,-80.9678485413,Monroe,Florida,Python bivittatus,Burmese Python
+34670527,2019-10-10,"Main Park Rd., Everglades National Park, Florida, USA",25.2866155,-80.8986509,Monroe,Florida,Python bivittatus,Burmese Python
+34980159,2019-10-27,"Everglades National Park, FL, US",25.1822489501,-80.8980569377,Monroe,Florida,Python bivittatus,Burmese Python
+35153472,2018-07-06,"Everglades National Park, Homestead, FL, US",25.2192216667,-80.8448416667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+35153502,2019-04-11,"Everglades National Park, Homestead, FL, US",25.2182116667,-80.84652,Miami-Dade,Florida,Python bivittatus,Burmese Python
+35315495,2015-06-12,"Miami-Dade County, FL, USA",25.4204,-80.4731222222,Miami-Dade,Florida,Python bivittatus,Burmese Python
+35317262,2019-11-04,"Everglades National Park, FL, US",25.17820833,-80.90201667,Monroe,Florida,Python bivittatus,Burmese Python
+35324661,2019-11-02,"Everglades National Park, Homestead, FL, US",25.43666167,-80.71212,Miami-Dade,Florida,Python bivittatus,Burmese Python
+35350568,2019-11-05,"Everglades National Park, FL, US",25.16400833,-80.91162833,Monroe,Florida,Python bivittatus,Burmese Python
+35585367,2019-11-10,"Everglades National Park, FL, US",25.1662220509,-80.9109185941,Monroe,Florida,Python bivittatus,Burmese Python
+36162417,2019-11-27,"Everglades National Park, Homestead, FL, US",25.21868,-80.845795,Miami-Dade,Florida,Python bivittatus,Burmese Python
+36162544,2019-11-27,"Everglades National Park, FL, US",25.1772262847,-80.9030702075,Monroe,Florida,Python bivittatus,Burmese Python
+36693495,2015-02-23,"Miami-Dade County, FL, USA, ENP",25.4137977149,-80.6289815621,Miami-Dade,Florida,Python bivittatus,Burmese Python
+37622428,2020-01-14,"Everglades National Park, Monroe, Florida, United States",25.1861666667,-80.8945388889,Monroe,Florida,Python bivittatus,Burmese Python
+37699929,2009-02-06,"Florida, US",25.7777267323,-80.729211707,Miami-Dade,Florida,Python bivittatus,Burmese Python
+37735668,2009-11-07,"Everglades National Park, US-FL, US",25.2039985026,-80.8268827004,Miami-Dade,Florida,Python bivittatus,Burmese Python
+37735669,2009-11-10,"Monroe County, FL, USA",25.17133,-80.90803,Monroe,Florida,Python bivittatus,Burmese Python
+37735671,2009-11-08,"Monroe County, FL, USA",25.20951,-80.86083,Monroe,Florida,Python bivittatus,Burmese Python
+37772827,2014-08-16,"Miami-Dade County, US-FL, US",25.7000306924,-80.5983562108,Miami-Dade,Florida,Python bivittatus,Burmese Python
+37772829,2013-05-28,"Miami-Dade County, FL, USA",25.28367,-80.79835,Miami-Dade,Florida,Python bivittatus,Burmese Python
+37772830,2009-11-10,"Monroe County, FL, USA",25.1771,-80.90308,Monroe,Florida,Python bivittatus,Burmese Python
+38441268,2020-02-02,"Miami-Dade County, FL, USA",25.4062294819,-80.5580985631,Miami-Dade,Florida,Python bivittatus,Burmese Python
+38443672,2020-02-05,"33000 Tamiami Trail E, Ochopee, FL 34141, USA",25.7617737643,-80.6584610281,Miami-Dade,Florida,Python bivittatus,Burmese Python
+39678223,2014-07-11,"Everglades, Florida, USA",25.745929,-80.5549561,Miami-Dade,Florida,Python bivittatus,Burmese Python
+39742896,2014-07-09,"Florida, USA",25.2866155,-80.8986509,Monroe,Florida,Python bivittatus,Burmese Python
+41480484,2007-07-13,"Miami-Dade County, FL, USA",25.403650421,-80.5445476886,Miami-Dade,Florida,Python bivittatus,Burmese Python
+42516793,2019-12-27,"Big Cypress, FL, USA",25.8991540204,-81.3051591441,Collier,Florida,Python bivittatus,Burmese Python
+42893072,2012-03-22,"Everglades National Park, FL, USA",25.4032036225,-80.9619754369,Monroe,Florida,Python bivittatus,Burmese Python
+42953262,2009-03-22,"Miami-Dade County, US-FL, US",25.3571742418,-80.4223510288,Miami-Dade,Florida,Python bivittatus,Burmese Python
+44812604,2013-01-07,"Flamingo, FL 33034, USA",25.4186496916,-80.5741435289,Miami-Dade,Florida,Python bivittatus,Burmese Python
+46779419,2020-05-21,"Everglades National Park, US-FL, US",25.2904808498,-80.7235248613,Miami-Dade,Florida,Python bivittatus,Burmese Python
+47939622,2019-12-05,"Miami-Dade County, FL, USA",25.739910452,-80.7592335469,Miami-Dade,Florida,Python bivittatus,Burmese Python
+50359044,2020-06-20,"Biscayne Bay, FL, US",25.64690333,-80.19705833,Miami-Dade,Florida,Python bivittatus,Burmese Python
+50503324,2020-06-01,"Everglades National Park, Homestead, FL, US",25.41741167,-80.77973,Miami-Dade,Florida,Python bivittatus,Burmese Python
+51146239,2020-06-27,"Big Cypress National Preserve, FL, US",25.7587640228,-80.9276509652,Monroe,Florida,Python bivittatus,Burmese Python
+53206798,2020-07-15,"Short Key, Homestead, FL, US",25.4501440097,-80.4361593817,Miami-Dade,Florida,Python bivittatus,Burmese Python
+54130196,2020-07-22,"SW Eighth St, Homestead, FL, US",25.7610069152,-80.6597677567,Miami-Dade,Florida,Python bivittatus,Burmese Python
+54130230,2020-07-23,"Big Cypress National Preserve, Ochopee, FL, US",25.9377170544,-81.3108414173,Collier,Florida,Python bivittatus,Burmese Python
+54167940,2020-07-23,"Florida, US",25.2131894718,-80.2753874921,Monroe,Florida,Python bivittatus,Burmese Python
+55300878,2020-07-29,"Monroe County, FL, USA",25.750881501,-80.967108822,Monroe,Florida,Python bivittatus,Burmese Python
+55411786,2020-08-04,"SW 97th Ave, Cutler Bay, FL, US",25.5582776118,-80.3476919994,Miami-Dade,Florida,Python bivittatus,Burmese Python
+56064679,2020-08-09,"Big Cypress National Preserve, Ochopee, FL, US",25.8806053659,-81.2437141214,Collier,Florida,Python bivittatus,Burmese Python
+56595280,2020-08-11,"Big Cypress National Preserve, Monroe, Florida, United States",25.753939,-80.933609,Monroe,Florida,Python bivittatus,Burmese Python
+56595281,2020-08-11,"Monroe County, FL, USA",25.757475,-80.9309390001,Monroe,Florida,Lithobates sphenocephalus,Southern Leopard Frog
+56595283,2020-08-11,"Monroe County, FL, USA",25.75732,-80.931366,Monroe,Florida,Anisomorpha buprestoides,Southern Two-striped Walkingstick
+56595284,2020-08-11,"Monroe County, FL, USA",25.75828,-80.9289470001,Monroe,Florida,Dryophytes cinereus,Green Treefrog
+56595285,2020-08-11,"Monroe County, FL, USA",25.761148,-80.919106,Monroe,Florida,Osteopilus septentrionalis,Cuban Tree Frog
+58321411,2020-08-30,"Broward County, FL, USA",26.1462454361,-80.6643930722,Broward,Florida,Python bivittatus,Burmese Python
+61601395,2018-08-08,"Big Cypress, FL, USA",25.8343986557,-80.9068909024,Collier,Florida,Python bivittatus,Burmese Python
+61628889,2018-08-08,"Miami-Dade County, FL, USA",25.7618772267,-80.7715473226,Miami-Dade,Florida,Python bivittatus,Burmese Python
+64152728,2018-04-26,"Everglades National Park, Homestead, FL, US",25.4608633333,-80.59012,Miami-Dade,Florida,Python bivittatus,Burmese Python
+64412083,2020-11-04,"Big Cypress, Ochopee, FL, US",25.8464758393,-80.9624700846,Collier,Florida,Python bivittatus,Burmese Python
+64562038,2020-11-04,"Water Ridge Dr, Weston, FL, US",26.0965591095,-80.3772575125,Broward,Florida,Python bivittatus,Burmese Python
+64884823,2020-11-14,"Miami-Dade County, US-FL, US",25.4561390387,-80.5016357488,Miami-Dade,Florida,Python bivittatus,Burmese Python
+66314214,2020-02-17,"Broward County, FL, USA",26.3339233333,-80.55493,Broward,Florida,Python bivittatus,Burmese Python
+66749835,2020-12-18,"Turtle Island, Naples, FL, US",26.0323752808,-81.6774597277,Collier,Florida,Python bivittatus,Burmese Python
+66761027,2016-08-15,"Everglades National Park, US-FL, US",25.3048455523,-80.9424204062,Miami-Dade,Florida,Python bivittatus,Burmese Python
+66778299,2020-12-13,"Short Key, Homestead, FL, US",25.4268879731,-80.4804502315,Miami-Dade,Florida,Python bivittatus,Burmese Python
+67036079,2020-12-24,"Everglades National Park, Homestead, FL, US",25.4172966667,-80.6448366667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+67346292,2020-12-30,"Everglades National Park, Homestead, FL, US",25.43405333,-80.72666167,Miami-Dade,Florida,Python bivittatus,Burmese Python
+67548699,2021-01-03,"Miami-Dade County, FL, USA",25.1898004736,-80.7757907946,Miami-Dade,Florida,Python bivittatus,Burmese Python
+67632302,2018-04-15,"Miami-Dade County, FL, USA",25.4110630825,-80.6539044216,Miami-Dade,Florida,Python bivittatus,Burmese Python
+68036195,2020-12-13,"Miami-Dade County, FL, USA",25.3985975886,-80.5688170573,Miami-Dade,Florida,Python bivittatus,Burmese Python
+68104385,2021-01-15,"I-75 N, Fort Lauderdale, FL, US",26.1467919359,-80.6988486462,Broward,Florida,Python bivittatus,Burmese Python
+68300368,2021-01-03,"Everglades National Park, US-FL, US",25.5017909549,-80.6258243448,Miami-Dade,Florida,Python bivittatus,Burmese Python
+68974271,2021-02-01,"Everglades National Park, FL, US",25.6467267797,-81.2723251639,Monroe,Florida,Python bivittatus,Burmese Python
+68980607,2020-10-11,"Everglades National Park, Homestead, FL, US",25.2392883333,-80.8119283333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+68981087,2020-09-28,"Everglades National Park, Homestead, FL, US",25.429,-80.687425,Miami-Dade,Florida,Python bivittatus,Burmese Python
+71467332,2019-12-06,"Everglades National Park, Homestead, FL, US",25.2593806561,-80.7984002346,Miami-Dade,Florida,Python bivittatus,Burmese Python
+74189018,2018-10-08,"Big Cypress National Preserve, FL, US",25.7585972415,-80.9875077346,Monroe,Florida,Python bivittatus,Burmese Python
+74363520,2020-12-19,"Everglades National Park, FL, US",25.1477305,-80.9242783333,Monroe,Florida,Python bivittatus,Burmese Python
+77639718,2018-05-15,"SW 232nd Ave, Homestead, FL, US",25.3701708448,-80.5658195135,Miami-Dade,Florida,Python bivittatus,Burmese Python
+79726646,2006-09-17,"Miami-Dade County, US-FL, US",25.5989462855,-80.4343471022,Miami-Dade,Florida,Python bivittatus,Burmese Python
+80054819,2021-05-22,"Miami-Dade County, FL, USA",25.3258983333,-80.7985883333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+80508265,2021-05-27,"Short Key, Homestead, FL, US",25.407970002,-80.523475,Miami-Dade,Florida,Python bivittatus,Burmese Python
+84932381,2021-06-28,"Turtle Island, Naples, FL, US",26.0699949844,-81.6763070344,Collier,Florida,Python bivittatus,Burmese Python
+85976785,2021-03-13,"Homestead, FL, USA",25.4745649722,-80.444766,Miami-Dade,Florida,Python bivittatus,Burmese Python
+86714824,2004-12-29,"Miami-Dade, Everglades National Park, Florida, United States",25.7547766667,-80.6735983333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+88346111,2018-08-04,"Florida, US",25.9136265803,-81.1122473694,Collier,Florida,Python bivittatus,Burmese Python
+88346163,2018-08-04,"Florida, US",25.6103166379,-80.7512406562,Miami-Dade,Florida,Python bivittatus,Burmese Python
+90392782,2021-08-07,"Big Cypress National Preserve, Ochopee, FL, US",25.9754033333,-81.2623966667,Collier,Florida,Python bivittatus,Burmese Python
+91119892,2021-08-14,"SW 107th Ave, Homestead, FL, US",25.507925,-80.36393,Miami-Dade,Florida,Python bivittatus,Burmese Python
+91928275,2021-08-21,"Big Cypress National Preserve, Ochopee, FL, US",25.9016376444,-81.3101997631,Collier,Florida,Python bivittatus,Burmese Python
+93307545,2013-01-01,"Monroe County, FL, USA",25.1529755169,-80.9170353141,Monroe,Florida,Python bivittatus,Burmese Python
+96331795,2021-09-26,United States,25.4126096033,-80.9014827327,Monroe,Florida,Python bivittatus,Burmese Python
+98039587,2021-10-12,"Fairchild Tropical Botanic Garden, Coral Gables, FL, US",25.6758116667,-80.2766333333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+99207027,2021-10-22,"Broward County, FL, USA",26.3336800932,-80.5975223847,Broward,Florida,Python bivittatus,Burmese Python
+100735464,2018-06-30,"Everglades National Park, Monroe County, US-FL, US",25.1392846173,-80.9553949036,Monroe,Florida,Python bivittatus,Burmese Python
+101938358,2021-11-26,"NW 119th Ct, Miami, FL, US",25.7919833333,-80.38997,Miami-Dade,Florida,Python bivittatus,Burmese Python
+102220803,2021-11-24,"Monroe County, FL, USA",25.1545539096,-80.915396464,Monroe,Florida,Python bivittatus,Burmese Python
+102364516,2021-12-02,"Turtle Island, Naples, FL, US",26.0787371178,-81.7151383457,Collier,Florida,Python bivittatus,Burmese Python
+103032047,2021-12-13,"Big Cypress National Preserve, Immokalee, FL, US",26.1748135472,-80.8949320334,Collier,Florida,Python bivittatus,Burmese Python
+103032413,2021-12-10,"Big Cypress National Preserve, Ochopee, FL, US",25.9011622052,-81.2814287544,Collier,Florida,Python bivittatus,Burmese Python
+103059911,2021-12-14,"Big Cypress National Preserve, Ochopee, FL, US",25.8209616667,-81.0260471667,Collier,Florida,Python bivittatus,Burmese Python
+103399493,2021-12-19,"Everglades National Park, US-FL, US",25.524329283,-80.6338770532,Miami-Dade,Florida,Python bivittatus,Burmese Python
+103399684,2021-12-20,"Florida, US",25.2296642835,-80.726146968,Miami-Dade,Florida,Python bivittatus,Burmese Python
+103601003,2021-12-24,"Everglades National Park, FL, US",25.7879166667,-81.3061216667,Monroe,Florida,Python bivittatus,Burmese Python
+104114999,2021-12-24,"Everglades City, FL 34139, USA",25.839642,-81.381788,Collier,Florida,Python bivittatus,Burmese Python
+104177685,2019-08-02,"Everglades National Park, US-FL, US",25.3984189683,-80.8794737802,Miami-Dade,Florida,Python bivittatus,Burmese Python
+104178495,2021-02-17,"Miami-Dade County, FL, USA",25.3677093361,-80.4941476137,Miami-Dade,Florida,Python bivittatus,Burmese Python
+104234260,2011-09-05,"Everglades National Park, US-FL, US",25.5276946288,-80.6755173732,Miami-Dade,Florida,Python bivittatus,Burmese Python
+104614319,2021-12-29,Everglades National Park,25.2842934445,-80.8986509219,Monroe,Florida,Alligator mississippiensis,American Alligator
+104709288,2020-07-11,"Miami-Dade County, FL, USA",25.890631,-81.262072,Collier,Florida,Python bivittatus,Burmese Python
+105066982,2021-12-30,"Miami-Dade County, US-FL, US",25.4607075961,-80.4050965405,Miami-Dade,Florida,Python bivittatus,Burmese Python
+106159856,2022-02-03,"Collier County, US-FL, US",26.1726953505,-81.6775689965,Collier,Florida,Python bivittatus,Burmese Python
+106275339,2020-07-25,"Florida, Miami-Dade, Miami, SW 132nd Street at SW 99th Court",25.6467220571,-80.3551735964,Miami-Dade,Florida,Platycercus eximius,Eastern Rosella
+106662800,2007-04-13,"Everglades National Park, Homestead, FL, US",25.4339678509,-80.6917769018,Miami-Dade,Florida,Python bivittatus,Burmese Python
+106864401,2022-02-12,"Everglades National Park, US-FL, US",25.2904217122,-80.6410077778,Miami-Dade,Florida,Python bivittatus,Burmese Python
+108340325,2022-03-10,"North Key Largo, FL 33037, USA",25.3208364244,-80.2801582326,Monroe,Florida,Python bivittatus,Burmese Python
+111375064,2022-04-04,"Florida, US",25.3695652197,-80.2236921748,Monroe,Florida,Python bivittatus,Burmese Python
+112556956,2022-04-07,"Monroe County, FL, USA",25.202644,-80.346309,Monroe,Florida,Python bivittatus,Burmese Python
+115186699,2022-04-28,"Everglades National Park, US-FL, US",25.4499949414,-80.6906039689,Miami-Dade,Florida,Python bivittatus,Burmese Python
+115402204,2022-04-27,"Everglades National Park, US-FL, US",25.5511594132,-80.6338323375,Miami-Dade,Florida,Python bivittatus,Burmese Python
+115747914,2022-05-04,"North Key Largo, FL 33037, USA",25.1899681705,-80.3526185869,Monroe,Florida,Python bivittatus,Burmese Python
+116443527,2022-05-09,"Miami-Dade County, FL, USA",25.3874674203,-80.4431064097,Miami-Dade,Florida,Python bivittatus,Burmese Python
+116749979,2022-04-26,"Fort Lauderdale, FL, US",26.0092111167,-80.6325833333,Broward,Florida,Python bivittatus,Burmese Python
+118447552,2022-05-23,"Monroe County, FL, USA",25.2167019464,-80.3322857246,Monroe,Florida,Python bivittatus,Burmese Python
+118449449,2022-02-03,"North Key Largo, FL 33037, USA",25.2313886766,-80.3318662941,Monroe,Florida,Python bivittatus,Burmese Python
+119013803,2012-07-23,"Monroe County, FL, USA",25.1386691545,-80.9374275531,Monroe,Florida,Python bivittatus,Burmese Python
+119571159,2022-02-03,"Clewiston, FL, US",26.3358466667,-80.62123,Palm Beach,Florida,Python bivittatus,Burmese Python
+119762922,2022-05-28,"North Key Largo, FL 33037, USA",25.1913083669,-80.3540469048,Monroe,Florida,Python bivittatus,Burmese Python
+119803308,2022-05-26,"Picayune Strand State Forest, Naples, FL, US",26.0788655108,-81.5879585529,Collier,Florida,Python bivittatus,Burmese Python
+120073838,2022-03-16,"Everglades National Park, Homestead, FL, US",25.4336735011,-80.7288189371,Miami-Dade,Florida,Python bivittatus,Burmese Python
+121092565,2022-06-07,"Everglades National Park, Homestead, FL, US",25.70575,-80.7668,Miami-Dade,Florida,Python bivittatus,Burmese Python
+121093106,2022-06-08,"Everglades National Park, Homestead, FL, US",25.3745116667,-80.814925,Miami-Dade,Florida,Python bivittatus,Burmese Python
+121513145,2022-06-08,"Big Cypress, Ochopee, FL, US",25.8628,-81.1005471667,Collier,Florida,Python bivittatus,Burmese Python
+121853022,2010-02-12,"Everglades National Park, FL, US",25.4195527168,-80.9140359936,Monroe,Florida,Python bivittatus,Burmese Python
+122230100,2022-06-14,"Everglades National Park, Homestead, FL, US",25.295975,-80.7983866667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+122230170,2022-06-14,"Everglades National Park, FL, US",25.2047783333,-80.8685216667,Monroe,Florida,Python bivittatus,Burmese Python
+122230351,2022-06-16,"Everglades National Park, FL, US",25.1476333333,-80.92408,Monroe,Florida,Python bivittatus,Burmese Python
+122853937,2021-11-09,"SW 202nd Ave, Homestead, FL, US",25.4363833333,-80.5177,Miami-Dade,Florida,Python bivittatus,Burmese Python
+122854114,2021-10-19,"Everglades National Park, Homestead, FL, US",25.7619533333,-80.7123033333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+122957222,2021-07-17,"Florida, US",25.8329524644,-81.0957354953,Collier,Florida,Python bivittatus,Burmese Python
+123038865,2021-10-16,"Everglades National Park, FL, US",25.1661611667,-80.9107966667,Monroe,Florida,Python bivittatus,Burmese Python
+123039220,2020-08-04,"Everglades National Park, Homestead, FL, US",25.7619033333,-80.744155,Miami-Dade,Florida,Python bivittatus,Burmese Python
+123156271,2022-06-22,"Everglades National Park, FL, US",25.2013633333,-80.8739916667,Monroe,Florida,Python bivittatus,Burmese Python
+123762605,2022-06-06,"Turtle Island, Naples, FL, US",26.0242622,-81.7325871,Collier,Florida,Python bivittatus,Burmese Python
+124299979,2022-07-01,"Turtle Island, Naples, FL, US",26.0277333333,-81.7152783333,Collier,Florida,Python bivittatus,Burmese Python
+124842054,2022-06-28,"I-75 N, Davie, FL, US",26.0485676057,-80.3527686404,Broward,Florida,Python bivittatus,Burmese Python
+124959531,2022-07-01,"Everglades National Park, Homestead, FL, US",25.4214616667,-80.777175,Miami-Dade,Florida,Python bivittatus,Burmese Python
+124959950,2022-07-02,"Everglades National Park, FL, US",25.2090083333,-80.86155,Monroe,Florida,Python bivittatus,Burmese Python
+124960145,2022-07-02,"Everglades National Park, Homestead, FL, US",25.2383366667,-80.8134916667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+125036291,2022-07-05,"Homestead, FL, US",25.8883533333,-80.8386083333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+125717331,2022-07-10,"Everglades National Park, Homestead, FL, US",25.246975,-80.8002466667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+127041228,2022-07-19,"Palmetto Bay, FL, USA",25.6192084671,-80.3367815119,Miami-Dade,Florida,Python bivittatus,Burmese Python
+127081386,2022-07-20,"North Key Largo, FL 33037, USA",25.2623535364,-80.31047903,Monroe,Florida,Python bivittatus,Burmese Python
+127091558,2022-07-20,"North Key Largo, FL 33037, USA",25.2657433923,-80.3088371828,Monroe,Florida,Python bivittatus,Burmese Python
+127351979,2022-07-18,"Florida, US",25.2487327607,-80.2641216574,Monroe,Florida,Python bivittatus,Burmese Python
+127723618,2022-07-16,"Big Cypress, Ochopee, FL, US",25.9014866667,-81.30652,Collier,Florida,Python bivittatus,Burmese Python
+128024082,2022-07-21,"Everglades National Park, Homestead, FL, US",25.2454083333,-80.8020633333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+128355781,2022-07-27,"North Key Largo, FL 33037, USA",25.1809141061,-80.3655052319,Monroe,Florida,Python bivittatus,Burmese Python
+128667667,2022-07-30,"I-75 S, Fort Lauderdale, FL, US",26.1593637053,-80.7842217177,Broward,Florida,Python bivittatus,Burmese Python
+129557740,2013-10-30,"Everglades National Park, Florida, USA",25.2866155,-80.8986509,Monroe,Florida,Python bivittatus,Burmese Python
+130008270,2022-08-07,"Miami-Dade County, FL, USA",25.2350999722,-80.8188999722,Miami-Dade,Florida,Python bivittatus,Burmese Python
+130572390,2022-08-09,"Everglades National Park, Homestead, FL, US",25.3602,-80.820945,Miami-Dade,Florida,Python bivittatus,Burmese Python
+130572615,2022-08-09,"Everglades National Park, FL, US",25.1641221667,-80.9116133333,Monroe,Florida,Python bivittatus,Burmese Python
+131077353,2022-08-15,"North Key Largo, FL 33037, USA",25.2837279963,-80.3315909019,Monroe,Florida,Python bivittatus,Burmese Python
+131542679,2019-12-16,"Miami-Dade County, FL, USA",25.7619188056,-80.7307460556,Miami-Dade,Florida,Python bivittatus,Burmese Python
+132371196,2022-08-26,"Florida City, FL 33034, USA",25.3956764922,-80.4485169053,Miami-Dade,Florida,Python bivittatus,Burmese Python
+132815016,2022-08-24,"Miami-Dade County, FL, USA",25.39964,-80.45104,Miami-Dade,Florida,Python bivittatus,Burmese Python
+133357637,2022-09-01,"North Key Largo, FL 33037, USA",25.28401,-80.31525,Monroe,Florida,Python bivittatus,Burmese Python
+134292669,2022-09-09,"North Key Largo, FL 33037, USA",25.1781383424,-80.3680794686,Monroe,Florida,Python bivittatus,Burmese Python
+134849046,2022-09-03,Ortona South Lock Campground,26.7879325312,-81.3072891533,Glades,Florida,Python bivittatus,Burmese Python
+135083666,2022-09-15,"Florida City, FL 33034, USA",25.3815267354,-80.4393229634,Miami-Dade,Florida,Python bivittatus,Burmese Python
+135935720,2022-09-20,"North Key Largo, FL 33037, USA",25.1924194802,-80.355431973,Monroe,Florida,Python bivittatus,Burmese Python
+136168142,2022-09-23,"Key Largo, FL 33037, USA",25.1710866261,-80.3739320487,Monroe,Florida,Python bivittatus,Burmese Python
+137504479,2020-07-25,"Miami-Dade County, FL, USA",25.608629,-80.524991,Miami-Dade,Florida,Python bivittatus,Burmese Python
+138285460,2022-10-10,"Big Cypress National Preserve, FL, US",25.7545854038,-80.92624153,Monroe,Florida,Python bivittatus,Burmese Python
+138525550,2022-10-12,"Keri Rd, Labelle, FL, US",26.5867133333,-81.3100966667,Hendry,Florida,Python bivittatus,Burmese Python
+138890885,2018-12-28,"Everglades National Park, US-FL, US",25.3781971857,-80.9379870331,Miami-Dade,Florida,Python bivittatus,Burmese Python
+140150269,2022-10-20,"North Key Largo, FL 33037, USA",25.3091753546,-80.2954794444,Monroe,Florida,Python bivittatus,Burmese Python
+140727194,2022-10-31,"Everglades National Park, Homestead, FL, US",25.2637342176,-80.7984886551,Miami-Dade,Florida,Python bivittatus,Burmese Python
+140841909,2022-11-01,"Everglades National Park, Homestead, FL, US",25.4093573909,-80.6492097998,Miami-Dade,Florida,Python bivittatus,Burmese Python
+141085723,2022-11-03,"North Key Largo, FL 33037, USA",25.2796015541,-80.3434837438,Monroe,Florida,Python bivittatus,Burmese Python
+141086028,2022-11-04,"North Key Largo, FL 33037, USA",25.1852741716,-80.3618648674,Monroe,Florida,Python bivittatus,Burmese Python
+141193752,2022-10-28,"Big Cypress, FL, USA",25.8398863423,-80.9146922082,Collier,Florida,Python bivittatus,Burmese Python
+141541025,2022-11-05,"Florida, US",25.30084446,-80.2063980391,Monroe,Florida,Python bivittatus,Burmese Python
+141623888,2022-04-27,"US-27 S, Fort Lauderdale, FL, US",26.3275098655,-80.5327384493,Broward,Florida,Python bivittatus,Burmese Python
+141997188,2022-11-14,"North Key Largo, FL 33037, USA",25.2904516106,-80.3034908697,Monroe,Florida,Python bivittatus,Burmese Python
+142119161,2022-11-15,"Homestead, FL, US",25.5232033333,-80.346795,Miami-Dade,Florida,Python bivittatus,Burmese Python
+142146601,2022-11-16,"North Key Largo, FL 33037, USA",25.2872060305,-80.3040999552,Monroe,Florida,Python bivittatus,Burmese Python
+142878107,2022-11-25,"Florida Bay, FL, US",25.1375146986,-80.6842703533,Monroe,Florida,Python bivittatus,Burmese Python
+143943756,2022-07-14,"Miami-Dade County, FL, USA",25.4479922308,-80.3795066621,Miami-Dade,Florida,Python bivittatus,Burmese Python
+144007844,2022-11-01,"North Key Largo, FL 33037, USA",25.1926955313,-80.3581382068,Monroe,Florida,Python bivittatus,Burmese Python
+144270569,2022-11-03,"North Key Largo, FL 33037, USA",25.1926127195,-80.3581782873,Monroe,Florida,Python bivittatus,Burmese Python
+144270971,2022-11-03,"North Key Largo, FL 33037, USA",25.1924574494,-80.358116457,Monroe,Florida,Python bivittatus,Burmese Python
+144271316,2022-11-20,"North Key Largo, FL 33037, USA",25.2620382637,-80.3141545092,Monroe,Florida,Python bivittatus,Burmese Python
+144338521,2022-12-13,"North Key Largo, FL 33037, USA",25.2940540342,-80.2895823079,Monroe,Florida,Python bivittatus,Burmese Python
+144416713,2022-10-23,"Broward County, FL, USA",26.145772444,-80.4604268985,Broward,Florida,Python bivittatus,Burmese Python
+144766678,2022-12-14,"North Key Largo, FL 33037, USA",25.2618683532,-80.3140108495,Monroe,Florida,Python bivittatus,Burmese Python
+145779112,2023-01-03,"SW 223rd Terr, Cutler Bay, FL, US",25.5603785694,-80.3341889151,Miami-Dade,Florida,Python bivittatus,Burmese Python
+145825224,2022-12-29,"North Key Largo, FL 33037, USA",25.3112813719,-80.2784159261,Monroe,Florida,Python bivittatus,Burmese Python
+145826183,2022-12-30,"Miami-Dade County, FL, USA",25.2995144983,-80.3861599452,Miami-Dade,Florida,Python bivittatus,Burmese Python
+145826438,2022-12-30,"Miami-Dade County, FL, USA",25.2777958128,-80.4421985594,Miami-Dade,Florida,Python bivittatus,Burmese Python
+145827013,2022-12-31,"North Key Largo, FL 33037, USA",25.3270079748,-80.283232932,Monroe,Florida,Python bivittatus,Burmese Python
+145827941,2022-12-30,"North Key Largo, FL 33037, USA",25.2972068786,-80.2914182343,Monroe,Florida,Python bivittatus,Burmese Python
+146348974,2023-01-03,"Florida, US",25.5441577092,-80.7426166844,Miami-Dade,Florida,Python bivittatus,Burmese Python
+146349084,2023-01-03,"Florida, US",25.6869538383,-80.7325479136,Miami-Dade,Florida,Python bivittatus,Burmese Python
+146399514,2022-08-10,"Miami-Dade County, FL, USA",25.3242643637,-80.5096670736,Miami-Dade,Florida,Python bivittatus,Burmese Python
+146442219,2023-01-10,"North Key Largo, FL 33037, USA",25.3138024253,-80.2898193227,Monroe,Florida,Python bivittatus,Burmese Python
+146935286,2023-01-19,"Miami-Dade County, FL, USA",25.371857059,-80.4330093786,Miami-Dade,Florida,Python bivittatus,Burmese Python
+147178829,2018-11-30,"Florida City, FL 33034, USA",25.2881440781,-80.7976912335,Miami-Dade,Florida,Python bivittatus,Burmese Python
+147327960,2023-01-25,"Turtle Island, Naples, FL, US",26.0884964675,-81.6972503113,Collier,Florida,Python bivittatus,Burmese Python
+147457806,2023-01-26,"Florida, US",25.20076943,-80.2580091368,Monroe,Florida,Python bivittatus,Burmese Python
+149298299,2023-02-18,"North Key Largo, FL 33037, USA",25.3242013773,-80.2878214046,Monroe,Florida,Python bivittatus,Burmese Python
+150530319,2022-06-15,"Florida, US",25.8510323329,-81.2545897622,Collier,Florida,Python bivittatus,Burmese Python
+151095531,2023-03-13,"Everglades National Park, US-FL, US",25.2345695953,-80.75330801,Miami-Dade,Florida,Python bivittatus,Burmese Python
+151103061,2023-03-13,"Big Cypress National Preserve, Ochopee, FL, US",25.8642216667,-81.1040638333,Collier,Florida,Python bivittatus,Burmese Python
+151417309,2023-03-17,"Miami, FL, US",25.6403924766,-80.5247894118,Miami-Dade,Florida,Python bivittatus,Burmese Python
+153848839,2023-04-05,"Homestead, FL, US",25.5193333333,-80.36235,Miami-Dade,Florida,Python bivittatus,Burmese Python
+157420592,2023-04-28,"Broward County, FL, USA",26.3318940997,-80.8147771997,Broward,Florida,Python bivittatus,Burmese Python
+158945244,2023-04-28,"Broward County, FL, USA",26.3319433333,-80.8147716667,Broward,Florida,Python bivittatus,Burmese Python
+160200839,2022-11-14,"Everglades National Park, Homestead, FL, US",25.2722616667,-80.79843,Miami-Dade,Florida,Python bivittatus,Burmese Python
+160207461,2023-02-23,"Everglades National Park, Homestead, FL, US",25.439925,-80.7826866667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+160627643,2023-05-06,"Florida City, FL 33034, USA",25.4370019076,-80.4754667357,Miami-Dade,Florida,Python bivittatus,Burmese Python
+162504186,2023-05-19,"Miami-Dade County, FL, USA",25.3811941364,-80.4390735179,Miami-Dade,Florida,Python bivittatus,Burmese Python
+163575322,2023-05-24,"Tamiami, FL, USA",25.7721629722,-80.4161339722,Miami-Dade,Florida,Python bivittatus,Burmese Python
+164202943,2023-05-28,"Homestead, FL, US",25.8178583333,-80.851075,Miami-Dade,Florida,Python bivittatus,Burmese Python
+164444298,2023-05-28,"Everglades National Park, Homestead, FL, US",25.2572333333,-80.798455,Miami-Dade,Florida,Python bivittatus,Burmese Python
+164925369,2023-05-31,"Dagny Johnson Key Largo Hammock Botanical State Park, Key Largo, FL, US",25.2196366667,-80.335555,Monroe,Florida,Canis latrans,Coyote
+165027705,2023-05-28,"Everglades National Park, FL, US",25.1754033333,-80.904725,Monroe,Florida,Python bivittatus,Burmese Python
+165029978,2023-05-20,"Everglades National Park, Homestead, FL, US",25.76183,-80.7969283333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+165218999,2023-06-02,"Miami, FL 33194, USA",25.7619584607,-80.7807044685,Miami-Dade,Florida,Python bivittatus,Burmese Python
+168451595,2023-06-20,"North Key Largo, FL 33037, USA",25.2828977037,-80.3551907837,Monroe,Florida,Python bivittatus,Burmese Python
+172458287,2023-07-11,"Ingraham Hwy, Homestead, FL, US",25.3996282864,-80.5692816881,Miami-Dade,Florida,Python bivittatus,Burmese Python
+172695125,2023-07-13,"South Naples, FL, USA",26.107026,-81.71529,Collier,Florida,Python bivittatus,Burmese Python
+173501402,2023-07-14,"Florida, US",25.9241293364,-81.3433522322,Collier,Florida,Python bivittatus,Burmese Python
+174983823,2023-07-22,"Homestead, FL, US",25.4034783333,-80.573875,Miami-Dade,Florida,Python bivittatus,Burmese Python
+175470131,2023-07-23,"SR-29, Immokalee, FL, US",26.1407305,-81.3449783333,Collier,Florida,Python bivittatus,Burmese Python
+175527973,2023-07-29,"North Key Largo, FL 33037, USA",25.245486839,-80.3194020689,Monroe,Florida,Python bivittatus,Burmese Python
+175827524,2023-07-21,"Miami-Dade County, US-FL, US",25.5447218514,-80.2595190204,Miami-Dade,Florida,Python bivittatus,Burmese Python
+176027247,2023-07-22,"Homestead, FL, US",25.403555,-80.57402,Miami-Dade,Florida,Python bivittatus,Burmese Python
+176587525,2023-08-03,"Everglades National Park, US-FL, US",25.3333268763,-80.8250302519,Miami-Dade,Florida,Python bivittatus,Burmese Python
+177181546,2023-08-07,"North Key Largo, FL 33037, USA",25.1864144857,-80.3608006239,Monroe,Florida,Python bivittatus,Burmese Python
+178125404,2023-08-13,"Old Card Sound Rd, Homestead, FL, US",25.4232,-80.4664466667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+178436410,2023-08-14,"North Key Largo, FL 33037, USA",25.3254129921,-80.2697201818,Monroe,Florida,Python bivittatus,Burmese Python
+178584418,2022-12-01,"Florida, US",25.3339707707,-80.2689769668,Monroe,Florida,Python bivittatus,Burmese Python
+178595305,2022-11-28,"Florida, US",25.3502809482,-80.3147395954,Monroe,Florida,Python bivittatus,Burmese Python
+178597301,2022-11-29,"Florida, US",25.3929968546,-80.3740157684,Monroe,Florida,Python bivittatus,Burmese Python
+178600640,2022-12-01,"Florida, US",25.2423687102,-80.2637479524,Monroe,Florida,Python bivittatus,Burmese Python
+178603536,2022-12-04,"Florida, US",25.3402523402,-80.3185591979,Monroe,Florida,Python bivittatus,Burmese Python
+179694445,2023-08-22,"North Key Largo, FL 33037, USA",25.2490397048,-80.3174638376,Monroe,Florida,Python bivittatus,Burmese Python
+180104966,2023-08-25,"Key Largo, Key Largo, FL, US",25.1915284125,-80.3562203758,Monroe,Florida,Python bivittatus,Burmese Python
+180205731,2023-08-25,"Florida, US",25.9884527482,-81.3700296839,Collier,Florida,Ursus americanus americanus,Eastern Black Bear
+182355554,2022-11-13,"Florida, US",25.1242799405,-80.2540731409,Monroe,Florida,Python bivittatus,Burmese Python
+185477638,2023-02-12,"Big Cypress, FL, USA",25.8956243,-81.3105388997,Collier,Florida,Python bivittatus,Burmese Python
+186012304,2023-10-03,"Florida, US",25.8782702894,-81.2579440454,Collier,Florida,Python bivittatus,Burmese Python
+186038892,2023-09-28,"Miami, FL 33194, USA",25.7605435042,-80.8688415214,Miami-Dade,Florida,Python bivittatus,Burmese Python
+186127595,2023-10-04,"Florida, US",25.8474539404,-81.3125976604,Collier,Florida,Python bivittatus,Burmese Python
+186169626,2023-06-27,"Florida, US",25.9139431291,-81.0449125852,Collier,Florida,Python bivittatus,Burmese Python
+186257529,2013-07-11,"Florida City, FL 33034, USA",25.4432028586,-80.5013684928,Miami-Dade,Florida,Python bivittatus,Burmese Python
+186628221,2010-01-02,"Miami-Dade County, US-FL, US",25.4180528003,-80.5794814709,Miami-Dade,Florida,Python bivittatus,Burmese Python
+187024291,2023-10-10,"Florida, US",25.8427584811,-81.1214666267,Collier,Florida,Python bivittatus,Burmese Python
+187306168,2023-10-12,"Miami-Dade County, FL, USA",25.3811526371,-80.4390292615,Miami-Dade,Florida,Python bivittatus,Burmese Python
+188637061,2023-10-23,"Florida City, FL 33034, USA",25.4226641086,-80.4661115259,Miami-Dade,Florida,Python bivittatus,Burmese Python
+190697410,2023-11-07,"Big Cypress National Preserve, Ochopee, FL, US",26.1607058739,-81.0473935744,Collier,Florida,Python bivittatus,Burmese Python
+191317617,2023-11-17,"Florida, US",25.3414765968,-80.276135718,Monroe,Florida,Python bivittatus,Burmese Python
+191517066,2023-11-15,"Everglades National Park, Monroe County, US-FL, US",25.1296381764,-80.9297733153,Monroe,Florida,Python bivittatus,Burmese Python
+191734371,2023-11-07,"Florida City, FL 33034, USA",25.2145938175,-80.8504895121,Miami-Dade,Florida,Python bivittatus,Burmese Python
+191783405,2023-11-16,"Collier County, US-FL, US",26.178525369,-81.240174415,Collier,Florida,Python bivittatus,Burmese Python
+191783407,2023-11-16,"Collier County, US-FL, US",26.1412521497,-81.3341186187,Collier,Florida,Alligator mississippiensis,American Alligator
+191783408,2023-11-16,"Collier County, US-FL, US",26.0524194975,-81.2498621642,Collier,Florida,Ardea herodias,Great Blue Heron
+191806005,2023-11-22,"Florida City, FL 33034, USA",25.4211748806,-80.4651254788,Miami-Dade,Florida,Python bivittatus,Burmese Python
+192265960,2015-08-25,"Miami-Dade County, FL, USA",25.31736667,-80.79828333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+192266217,2015-07-14,"Miami-Dade County, FL, USA",25.22173333,-80.8407,Miami-Dade,Florida,Python bivittatus,Burmese Python
+192266358,2015-07-11,"Miami-Dade County, FL, USA",25.41006667,-80.78468333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+192266610,2014-07-26,"Miami-Dade County, FL, USA",25.28041667,-80.79838333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+192468624,2023-11-22,"Fort Lauderdale, FL, US",26.2908976048,-80.5024462772,Broward,Florida,Python bivittatus,Burmese Python
+192522933,2023-11-07,"Monroe County, FL, USA",25.193802,-80.8742,Monroe,Florida,Python bivittatus,Burmese Python
+192778039,2020-07-25,"SW 205th Ave, Miami, FL, US",25.6122383333,-80.5245716667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+193181517,2023-06-08,"Big Cypress, FL, USA",25.9338276883,-81.3563867604,Collier,Florida,Python bivittatus,Burmese Python
+193615148,2023-12-08,"Broward County, FL, USA",26.0542527085,-80.4625369571,Broward,Florida,Python bivittatus,Burmese Python
+193714691,2023-12-11,"Naples, FL 34120, USA",26.3465509095,-81.5951602533,Collier,Florida,Python bivittatus,Burmese Python
+194328272,2023-12-10,"Belle Glade, FL, US",26.3353366667,-80.5960083333,Palm Beach,Florida,Python bivittatus,Burmese Python
+194613553,2023-12-21,"Florida, US",26.0968150835,-80.4007373536,Broward,Florida,Python bivittatus,Burmese Python
+194764139,2015-01-29,"Everglades National Park, Florida, USA",25.2866155,-80.8986509,Monroe,Florida,Python bivittatus,Burmese Python
+194837197,2022-02-16,"Florida, US",25.3774860189,-80.3150982073,Monroe,Florida,Python bivittatus,Burmese Python
+195757525,2024-01-04,"Boca Raton, FL, US",26.345255,-80.303055,Palm Beach,Florida,Python bivittatus,Burmese Python
+196073168,2024-01-06,"Miami-Dade County, FL, USA",25.7474988108,-80.6732287965,Miami-Dade,Florida,Python bivittatus,Burmese Python
+196315078,2024-01-07,"Everglades National Park, FL, US",25.1369278333,-80.9455416667,Monroe,Florida,Python bivittatus,Burmese Python
+197323016,2023-12-28,"Biscayne National Park, Homestead, FL, US",25.519609614,-80.3317527819,Miami-Dade,Florida,Python bivittatus,Burmese Python
+197474934,2024-01-24,"Big Cypress, FL, USA",25.8626361111,-81.089425,Collier,Florida,Python bivittatus,Burmese Python
+199099052,2024-02-12,"SW 344th St, Homestead, FL, US",25.448475,-80.36773,Miami-Dade,Florida,Python bivittatus,Burmese Python
+199154103,2014-04-24,"Miami-Dade County, FL, USA",25.9398274402,-80.7109080255,Miami-Dade,Florida,Python bivittatus,Burmese Python
+200059770,2016-08-20,"Miami-Dade County, FL, USA",25.3907420905,-80.8032072968,Miami-Dade,Florida,Python bivittatus,Burmese Python
+201533116,2024-03-04,"W Bay Harbor Dr, Bay Harbor Islands, FL, US",25.8940866667,-80.1338055,Miami-Dade,Florida,Python bivittatus,Burmese Python
+202293220,2024-03-12,"Miami-Dade County, US-FL, US",25.3257428044,-80.4850098335,Miami-Dade,Florida,Python bivittatus,Burmese Python
+202293434,2024-03-12,"Everglades National Park, US-FL, US",25.3616132616,-80.7545784017,Miami-Dade,Florida,Python bivittatus,Burmese Python
+202712056,2024-03-16,"Collier County, FL, USA",25.9855180289,-81.4111230251,Collier,Florida,Python bivittatus,Burmese Python
+204268075,2024-03-28,"Miami-Dade County, Everglades National Park, US-FL, US",25.28856918,-80.79841437,Miami-Dade,Florida,Python bivittatus,Burmese Python
+204397382,2024-03-28,"Everglades National Park, US-FL, US",25.5548528375,-80.7306528967,Miami-Dade,Florida,Python bivittatus,Burmese Python
+205432994,2019-10-15,"Miami-Dade County, US-FL, US",25.5182372573,-80.4588843496,Miami-Dade,Florida,Python bivittatus,Burmese Python
+206490604,2020-05-13,"Homestead, FL, US",25.7755966667,-80.83937,Miami-Dade,Florida,Python bivittatus,Burmese Python
+206516377,2019-07-25,"Miami, FL, US",25.6504866667,-80.5250333333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+209151754,2023-01-04,"Turtle Island, Naples, FL, US",26.0517986577,-81.680934317,Collier,Florida,Python bivittatus,Burmese Python
+212608821,2019-01-11,"Miami-Dade County, FL, USA",25.6646849414,-80.7653384439,Miami-Dade,Florida,Python bivittatus,Burmese Python
+213076931,2024-05-02,"Everglades National Park, US-FL, US",25.420771071,-80.7546630921,Miami-Dade,Florida,Python bivittatus,Burmese Python
+215404298,2022-07-01,"Collier County, US-FL, US",26.1455335476,-81.2599590677,Collier,Florida,Python bivittatus,Burmese Python
+220391949,2024-06-02,"SW Eighth St, Homestead, FL, US",25.762245,-80.7255633333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+220604686,2024-06-04,"Florida City, FL 33034, USA",25.4052611111,-80.4546944444,Miami-Dade,Florida,Python bivittatus,Burmese Python
+220833090,2024-05-14,"Florida, US",25.6957678171,-80.8815591512,Miami-Dade,Florida,Python bivittatus,Burmese Python
+221349821,2024-06-06,"Miami-Dade County, FL, USA",25.7618921745,-80.8149678671,Miami-Dade,Florida,Python bivittatus,Burmese Python
+221361918,2024-06-06,"Miami-Dade County, FL, USA",25.7618313708,-80.8152887294,Miami-Dade,Florida,Python bivittatus,Burmese Python
+222305329,2024-06-11,"North Key Largo, FL 33037, USA",25.3175421283,-80.2810116112,Monroe,Florida,Python bivittatus,Burmese Python
+222691253,2024-06-12,"Florida, US",26.2828941364,-80.7201672513,Broward,Florida,Python bivittatus,Burmese Python
+223233293,2024-06-12,"Everglades National Park, US-FL, US",25.4127190602,-80.6517933986,Miami-Dade,Florida,Python bivittatus,Burmese Python
+223269321,2024-06-13,"Miami-Dade County, US-FL, US",25.5024950642,-80.4119884348,Miami-Dade,Florida,Python bivittatus,Burmese Python
+223847253,2022-11-10,"Florida, US",25.2820008014,-80.2560202969,Monroe,Florida,Python bivittatus,Burmese Python
+224265610,2024-06-21,"Miami-Dade County, FL, USA",25.2142998898,-80.853099972,Miami-Dade,Florida,Python bivittatus,Burmese Python
+224728628,2021-04-18,"Monroe County, FL, USA",25.1395351192,-80.929628743,Monroe,Florida,Python bivittatus,Burmese Python
+225763717,2023-12-16,"Miami-Dade County, US-FL, US",25.4293403084,-80.4663636762,Miami-Dade,Florida,Python bivittatus,Burmese Python
+226536627,2023-01-08,"Big Cypress, FL, USA",26.0481643797,-81.0754658282,Collier,Florida,Python bivittatus,Burmese Python
+228516876,2024-07-05,"Collier County, FL, USA",25.9660487515,-81.3532871768,Collier,Florida,Python bivittatus,Burmese Python
+228523421,2024-07-05,"Collier County, FL, USA",25.9822489095,-81.3488837728,Collier,Florida,Python bivittatus,Burmese Python
+229821589,2024-07-16,"Homestead Base, FL, USA",25.4992514997,-80.4044602997,Miami-Dade,Florida,Python bivittatus,Burmese Python
+230132114,2024-07-18,"Everglades National Park, Homestead, FL, US",25.4035633333,-80.60933,Miami-Dade,Florida,Python bivittatus,Burmese Python
+230132234,2024-07-17,"Everglades National Park, Homestead, FL, US",25.4045883333,-80.6144416667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+230132261,2024-07-17,"Everglades National Park, Homestead, FL, US",25.4043116667,-80.6108083333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+230321466,2024-07-19,"SW Eighth St, Miami, FL, US",25.7609965203,-80.5152316343,Miami-Dade,Florida,Python bivittatus,Burmese Python
+230631524,2024-07-20,"Turtle Island, Naples, FL, US",26.0990333333,-81.7532666667,Collier,Florida,Python bivittatus,Burmese Python
+232571345,2024-07-29,"Naples, FL 34114, USA",26.1011346818,-81.6171315685,Collier,Florida,Python bivittatus,Burmese Python
+233463166,2024-08-03,"Eagle Creek Golf & Country Club, Naples, FL, US",26.0521666721,-81.7096866667,Collier,Florida,Python bivittatus,Burmese Python
+234185096,2024-08-06,"Turtle Island, Naples, FL, US",26.0072883664,-81.6103452211,Collier,Florida,Python bivittatus,Burmese Python
+234258783,2024-08-06,"Florida, US",25.8289832033,-81.3211345025,Collier,Florida,Python bivittatus,Burmese Python
+234457741,2024-08-07,"Naples, FL 34114, USA",25.9093109491,-81.3656080887,Collier,Florida,Python bivittatus,Burmese Python
+234510426,2024-08-07,"Homestead, FL, US",25.8566373945,-80.6317794187,Miami-Dade,Florida,Python bivittatus,Burmese Python
+234809195,2024-08-09,"Big Cypress, FL, USA",25.9013038227,-81.3343258202,Collier,Florida,Python bivittatus,Burmese Python
+235715565,2024-08-14,"US-27 S, Weston, FL, US",26.0641721667,-80.4344416667,Broward,Florida,Python bivittatus,Burmese Python
+235889470,2024-08-15,"Turtle Island, Naples, FL, US",26.0589276186,-81.7109688924,Collier,Florida,Python bivittatus,Burmese Python
+236629708,2009-05-08,"Miami-Dade County, FL, USA",25.45291329,-80.7989917167,Miami-Dade,Florida,Python bivittatus,Burmese Python
+236629709,2009-12-07,"Miami-Dade County, FL, USA",25.5276036061,-80.6521646136,Miami-Dade,Florida,Python bivittatus,Burmese Python
+239915529,2024-09-04,"Big Cypress National Preserve, Ochopee, FL, US",25.8480283333,-80.9463966667,Collier,Florida,Python bivittatus,Burmese Python
+239918462,2024-09-05,"The Links Golf Course, Naples, FL, US",26.0225028333,-81.6352866667,Collier,Florida,Python bivittatus,Burmese Python
+240274117,2024-09-06,"Big Cypress National Preserve, Ochopee, FL, US",25.8645981867,-81.1094832421,Collier,Florida,Python bivittatus,Burmese Python
+242536529,2024-09-18,"Dagny Johnson Key Largo Hammock Botanical State Park, Key Largo, FL, US",25.2463798363,-80.3188463831,Monroe,Florida,Python bivittatus,Burmese Python
+242546150,2024-09-15,"NW 137th Ave, Miami, FL, US",25.7746516479,-80.4174867331,Miami-Dade,Florida,Python bivittatus,Burmese Python
+242857723,2024-09-20,"City of Marco, Marco Island, FL, USA",25.9691345599,-81.7406791449,Collier,Florida,Python bivittatus,Burmese Python
+244131654,2024-09-26,"North Key Largo, FL 33037, USA",25.2669583333,-80.3124305556,Monroe,Florida,Python bivittatus,Burmese Python
+245327968,2024-10-02,"SW Seventh Terr, Sweetwater, FL, US",25.761674094,-80.3773149418,Miami-Dade,Florida,Python bivittatus,Burmese Python
+248726250,2024-10-22,"Immokalee, FL, US",26.2823083333,-81.1898283333,Hendry,Florida,Python bivittatus,Burmese Python
+248833196,2024-10-14,"Everglades National Park, Monroe County, US-FL, US",25.1871383333,-80.8934333333,Monroe,Florida,Python bivittatus,Burmese Python
+249833758,2024-10-24,"Florida, US",25.6920767606,-80.9703192685,Monroe,Florida,Python bivittatus,Burmese Python
+250774163,2020-10-20,"Everglades National Park, Homestead, FL, US",25.4363547755,-80.8478345983,Miami-Dade,Florida,Python bivittatus,Burmese Python
+251077980,2024-11-09,"Turtle Island, Naples, FL, US",26.0773857099,-81.6885742569,Collier,Florida,Python bivittatus,Burmese Python
+251252308,2024-11-10,"Homestead, FL 33033, USA",25.4611111111,-80.3794444444,Miami-Dade,Florida,Python bivittatus,Burmese Python
+251518352,2024-10-25,"Everglades National Park, Florida, USA",25.2866155,-80.8986509,Monroe,Florida,Python bivittatus,Burmese Python
+251996071,2024-11-16,"Miami-Dade County, FL, USA",25.2832336389,-80.7987365556,Miami-Dade,Florida,Python bivittatus,Burmese Python
+253106086,2024-11-25,"Miami-Dade County, FL, USA",25.238328825,-80.813481975,Miami-Dade,Florida,Python bivittatus,Burmese Python
+253109933,2024-11-25,"Homestead, FL 33030, USA",25.40277817,-80.56189222,Miami-Dade,Florida,Python bivittatus,Burmese Python
+253165024,2024-11-20,"Colonial Rd, Homestead, FL, US",25.451260646,-80.3800934804,Miami-Dade,Florida,Python bivittatus,Burmese Python
+253226111,2024-11-25,"Miami-Dade County, FL, USA",25.3829579302,-80.6660922697,Miami-Dade,Florida,Python bivittatus,Burmese Python
+253226147,2024-11-25,"Miami-Dade County, FL, USA",25.244537437,-80.8031986417,Miami-Dade,Florida,Python bivittatus,Burmese Python
+253235282,2024-11-25,"Miami-Dade County, FL, USA",25.3829228342,-80.6660456181,Miami-Dade,Florida,Python bivittatus,Burmese Python
+253235310,2024-11-25,"Miami-Dade County, FL, USA",25.2441544151,-80.8035408173,Miami-Dade,Florida,Python bivittatus,Burmese Python
+254078624,2019-08-27,"Everglades National Park, Homestead, FL, US",25.2822822915,-80.7984745711,Miami-Dade,Florida,Python bivittatus,Burmese Python
+254078824,2019-10-04,"S Dixie Hwy, Homestead, FL, US",25.4314025933,-80.4745764881,Miami-Dade,Florida,Python bivittatus,Burmese Python
+254691833,2024-12-09,"Fort Lauderdale, FL, US",26.333855,-80.5430133333,Broward,Florida,Python bivittatus,Burmese Python
+254789510,2024-12-10,"Everglades National Park, Homestead, FL, US",25.4169966667,-80.653,Miami-Dade,Florida,Python bivittatus,Burmese Python
+254794973,2024-12-11,"Miami-Dade County, FL, USA",25.4179827849,-80.6693616696,Miami-Dade,Florida,Python bivittatus,Burmese Python
+254917107,2024-12-12,"SW Eighth St, Homestead, FL, US",25.761705,-80.5576166667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+255235143,2024-12-15,"Collier County, US-FL, US",25.9561340567,-81.3558931276,Collier,Florida,Python bivittatus,Burmese Python
+255970545,2016-12-06,"Redland, FL 33031, USA",25.531292,-80.4427466944,Miami-Dade,Florida,Python bivittatus,Burmese Python
+255994912,2024-12-20,"S Dixie Hwy, Homestead, FL, US",25.2846388162,-80.4438741218,Miami-Dade,Florida,Python bivittatus,Burmese Python
+257373634,2025-01-04,"Miami-Dade County, US-FL, US",25.3093685687,-80.3923232853,Miami-Dade,Florida,Python bivittatus,Burmese Python
+257492830,2024-12-28,"Miami-Dade County, FL, USA",25.2302701209,-80.8267157421,Miami-Dade,Florida,Python bivittatus,Burmese Python
+257877126,2025-01-08,"Miami-Dade County, FL, USA",25.7616996667,-80.7687225278,Miami-Dade,Florida,Python bivittatus,Burmese Python
+258483096,2025-01-14,"Miami-Dade County, FL, USA",25.3250880997,-80.7984862997,Miami-Dade,Florida,Python bivittatus,Burmese Python
+258676092,2025-01-16,"Naples, FL 34114, USA",26.0240696,-81.7116367997,Collier,Florida,Python bivittatus,Burmese Python
+259939110,2025-01-22,"SW Seventh Terr, Miami, FL, US",25.7617704531,-80.3696073643,Miami-Dade,Florida,Python bivittatus,Burmese Python
+260188040,2025-01-24,"Weston, Florida, EE. UU.",26.1003654,-80.3997748,Broward,Florida,Python bivittatus,Burmese Python
+261952461,2025-02-16,"Everglades National Park, Homestead, FL, US",25.2635222593,-80.7985025259,Miami-Dade,Florida,Python bivittatus,Burmese Python
+262183117,2025-02-18,"Palmetto Bay, FL, US",25.6059133333,-80.3091366667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+262646278,2025-02-19,"Belle Glade, FL, US",26.3348083333,-80.634645,Palm Beach,Florida,Python bivittatus,Burmese Python
+262646424,2025-02-19,"Belle Glade, FL, US",26.33523,-80.6365883333,Palm Beach,Florida,Python bivittatus,Burmese Python
+263046560,2025-01-01,"Florida, US",26.3840238514,-80.769906254,Palm Beach,Florida,Python bivittatus,Burmese Python
+263319035,2025-02-27,"Pinecrest, FL 33156, USA",25.6850611111,-80.2774138889,Miami-Dade,Florida,Python bivittatus,Burmese Python
+263532705,2021-08-26,"Belle Glade, FL, US",26.3347397735,-80.6129565418,Palm Beach,Florida,Python bivittatus,Burmese Python
+264005828,2024-10-24,"Homestead, FL, US",25.397775,-80.5174033333,Miami-Dade,Florida,Coragyps atratus,Black Vulture
+264801050,2024-11-29,"Weston, FL, USA",26.1293049393,-80.4253870302,Broward,Florida,Python bivittatus,Burmese Python
+268211958,2025-03-31,"Big Cypress National Preserve, Ochopee, FL, US",26.0598975437,-81.2643550087,Collier,Florida,Python bivittatus,Burmese Python
+269412443,2025-04-01,"Florida, US",26.2380290826,-80.6816615244,Broward,Florida,Python bivittatus,Burmese Python
+269708012,2025-04-04,"Key Largo, FL, US",25.2272083333,-80.3279283333,Monroe,Florida,Python bivittatus,Burmese Python
+271937548,2025-04-18,"Florida International University - Biscayne Bay Campus, North Miami, FL, US",25.91248,-80.1383083333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+280516501,2025-04-06,"Live Oak, FL 32060, USA",30.3853444444,-83.1696027778,Suwannee,Florida,Pantherophis alleghaniensis,Eastern Ratsnake
+284653450,2025-05-20,"Miami-Dade County, FL, USA",25.22457,-80.836128,Miami-Dade,Florida,Python bivittatus,Burmese Python
+285468918,2025-05-30,Ochopee,25.8593177795,-81.0567703247,Collier,Florida,Python bivittatus,Burmese Python
+289740812,2025-06-14,"Everglades National Park, FL, US",25.1497728109,-80.9213423849,Monroe,Florida,Python bivittatus,Burmese Python
+290900945,2025-06-19,"Turtle Island, Naples, FL, US",26.0761171459,-81.7195486113,Collier,Florida,Python bivittatus,Burmese Python
+292940508,2025-06-24,"Florida, US",26.0068164719,-81.7092190432,Collier,Florida,Python bivittatus,Burmese Python
+293013282,2023-12-16,"Everglades National Park, Homestead, FL, US",25.2261651368,-80.8343408575,Miami-Dade,Florida,Python bivittatus,Burmese Python
+299101549,2024-09-06,"Big Cypress National Preserve, FL, US",25.865644,-81.128089,Collier,Florida,Python bivittatus,Burmese Python
+300670440,2025-07-23,"Everglades National Park, Homestead, FL, US",25.3136416667,-80.79837,Miami-Dade,Florida,Python bivittatus,Burmese Python
+301192837,2025-07-25,"Florida, US",25.2731006146,-80.9219366089,Miami-Dade,Florida,Python bivittatus,Burmese Python
+301350381,2025-07-20,"Broward County, FL, USA",26.333525,-80.628025,Broward,Florida,Python bivittatus,Burmese Python
+301756341,2025-07-25,"SW 328th St, Homestead, FL, US",25.46277,-80.3689633333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+301756591,2025-07-25,"North Canal, Homestead, FL, US",25.46293,-80.36808,Miami-Dade,Florida,Python bivittatus,Burmese Python
+301756638,2025-07-25,"SW 328th St, Homestead, FL, US",25.4628083333,-80.3706666667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+301789268,2025-07-28,"North Atlantic Ocean, Naples, FL, US",26.1162406794,-81.8055990657,Collier,Florida,Python bivittatus,Burmese Python
+301806544,2025-07-26,"SW 328th St, Homestead, FL, US",25.4628783333,-80.3656083333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+301806684,2025-07-26,"SW 344th St, Homestead, FL, US",25.4480333333,-80.3495716667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+301808570,2025-07-27,"SW 328th St, Homestead, FL, US",25.462895,-80.3715216667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+301808631,2025-07-27,"SW 328th St, Homestead, FL, US",25.46285,-80.370895,Miami-Dade,Florida,Python bivittatus,Burmese Python
+302190890,2025-07-29,"CR-839, Ochopee, FL, US",26.0542916667,-81.2641966667,Collier,Florida,Python bivittatus,Burmese Python
+302253517,2025-07-29,"SW 107th Ave, Homestead, FL, US",25.493545,-80.363625,Miami-Dade,Florida,Python bivittatus,Burmese Python
+302500244,2025-07-29,"CR-839, Ochopee, FL, US",26.0542666667,-81.2641966667,Collier,Florida,Python bivittatus,Burmese Python
+302584734,2025-07-31,"Skylark Dr, Weston, FL, US",26.1182666667,-80.42147,Broward,Florida,Python bivittatus,Burmese Python
+302638746,2025-07-31,"South Naples, FL, USA",26.1067416667,-81.7139666667,Collier,Florida,Python bivittatus,Burmese Python
+302847852,2025-08-01,"North Key Largo, FL 33037, USA",25.2677182,-80.3075958,Monroe,Florida,Python bivittatus,Burmese Python
+303031123,2025-08-01,"Colonial Rd, Homestead, FL, US",25.4610716667,-80.3795383333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+303436930,2024-03-27,"Everglades National Park, US-FL, US",25.3595950472,-80.8295159787,Miami-Dade,Florida,Python bivittatus,Burmese Python
+304054974,2024-06-04,"Tamiami Trail E, Ochopee, FL, US",25.8635383333,-81.0994195,Collier,Florida,Python bivittatus,Burmese Python
+304397520,2025-08-06,"Fort Lauderdale, FL, US",26.33353,-80.6249166667,Broward,Florida,Python bivittatus,Burmese Python
+304450703,2024-09-24,"Florida, US",25.7840423149,-80.830403191,Miami-Dade,Florida,Python bivittatus,Burmese Python
+304472959,2025-08-06,"Florida, US",26.3377707822,-80.7989319228,Broward,Florida,Python bivittatus,Burmese Python
+304836117,2025-08-01,"Florida, US",25.8559090099,-81.2713441732,Collier,Florida,Python bivittatus,Burmese Python
+305141211,2025-08-09,"Miami-Dade County, FL, USA",25.3927338534,-80.6207395967,Miami-Dade,Florida,Python bivittatus,Burmese Python
+305464110,2025-08-10,"Miami-Dade County, US-FL, US",25.5386201688,-80.3045530845,Miami-Dade,Florida,Python bivittatus,Burmese Python
+305464139,2025-08-10,"Miami-Dade County, US-FL, US",25.4949914606,-80.3053298443,Miami-Dade,Florida,Python bivittatus,Burmese Python
+305706072,2025-08-12,"Homestead, FL, US",25.8919716667,-80.83867,Miami-Dade,Florida,Python bivittatus,Burmese Python
+305803280,2025-08-12,"Florida, US",25.8989390413,-80.8047172893,Miami-Dade,Florida,Python bivittatus,Burmese Python
+307692847,2025-08-19,"Collier County, US-FL, US",26.0709113844,-81.323519603,Collier,Florida,Python bivittatus,Burmese Python
+307758837,2025-08-19,"CR-839, Ochopee, FL, US",26.1064695,-81.2653283333,Collier,Florida,Python bivittatus,Burmese Python
+307893206,2025-08-20,"Belle Glade, FL, US",26.3395383005,-80.6263319338,Palm Beach,Florida,Python bivittatus,Burmese Python
+307964453,2025-08-20,"Big Cypress National Preserve, FL, US",25.7612883333,-80.8972783333,Monroe,Florida,Python bivittatus,Burmese Python
+308356631,2025-08-22,"Big Cypress National Preserve, FL, US",25.7635168185,-81.0720878798,Monroe,Florida,Python bivittatus,Burmese Python
+308377321,2025-08-22,"Main Park Rd, Homestead, FL, US",25.4335683987,-80.75357272,Miami-Dade,Florida,Python bivittatus,Burmese Python
+308549120,2025-08-22,"Florida, US",26.2076725781,-80.6220724356,Broward,Florida,Python bivittatus,Burmese Python
+308696056,2025-08-23,"Monroe County, FL, USA",25.1788154507,-80.9014057563,Monroe,Florida,Python bivittatus,Burmese Python
+308712929,2025-08-23,"Miami-Dade County, FL, USA",25.3947478391,-80.7971051957,Miami-Dade,Florida,Python bivittatus,Burmese Python
+309568631,2025-08-08,"Key Largo, FL, US",25.2658466667,-80.3052966667,Monroe,Florida,Python bivittatus,Burmese Python
+310067892,2009-03-20,Miccosukee Reserved Area,25.761854,-80.769356,Miami-Dade,Florida,Python bivittatus,Burmese Python
+310854510,2025-08-31,"Miami-Dade, Florida, United States",25.46290833,-80.35011944,Miami-Dade,Florida,Python bivittatus,Burmese Python
+310856483,2025-07-30,"Miami-Dade County, FL, USA",25.2531851744,-80.7981496725,Miami-Dade,Florida,Python bivittatus,Burmese Python
+311300163,2024-05-01,"Big Cypress National Preserve, Collier County, US-FL, US",25.996345,-81.2497783333,Collier,Florida,Python bivittatus,Burmese Python
+313261105,2025-09-11,"Miami, FL 33196, USA",25.65978864,-80.51225994,Miami-Dade,Florida,Python bivittatus,Burmese Python
+313873270,2025-09-12,"Miami, FL, US",25.7447664303,-80.4906082657,Miami-Dade,Florida,Python bivittatus,Burmese Python
+314492147,2025-09-16,"CR-839, Ochopee, FL, US",26.0186138333,-81.2632666667,Collier,Florida,Python bivittatus,Burmese Python
+314573219,2025-09-16,"CR-839, Ochopee, FL, US",26.0185805,-81.2632833333,Collier,Florida,Python bivittatus,Burmese Python
+314627374,2025-09-16,"Collier County, US-FL, US",26.0545654342,-81.3452336416,Collier,Florida,Python bivittatus,Burmese Python
+315054091,2016-11-23,"Collier County, FL, USA",26.0252288976,-81.7300517478,Collier,Florida,Python bivittatus,Burmese Python
+315223775,2025-09-16,"CR-839, Ochopee, FL, US",26.018575,-81.2632533333,Collier,Florida,Python bivittatus,Burmese Python
+315223898,2024-08-12,"CR-839, Ochopee, FL, US",25.977775,-81.2623883333,Collier,Florida,Python bivittatus,Burmese Python
+315223926,2024-08-09,"Birdon Rd, Ochopee, FL, US",25.9375666667,-81.3108366667,Collier,Florida,Python bivittatus,Burmese Python
+315579295,2025-09-20,palm beach,26.333611,-80.667559,Broward,Florida,Python bivittatus,Burmese Python
+316180929,2023-06-22,"Florida, US",26.1247488789,-81.0301778656,Collier,Florida,Python bivittatus,Burmese Python
+316451213,2025-09-24,"Florida, US",26.2548007034,-80.7776486342,Palm Beach,Florida,Python bivittatus,Burmese Python
+316451557,2025-09-24,"Florida, US",26.2084447457,-80.5684356999,Broward,Florida,Python bivittatus,Burmese Python
+316453689,2025-09-23,"Tamiami Trail E, Homestead, FL, US",25.7719633333,-80.8377916667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+316453783,2025-09-24,"Fort Lauderdale, FL, US",26.333795,-80.5618666667,Broward,Florida,Python bivittatus,Burmese Python
+316453822,2025-09-24,"Belle Glade, FL, US",26.38418,-80.6094366667,Palm Beach,Florida,Python bivittatus,Burmese Python
+316638895,2023-07-19,"Big Cypress, FL, USA",25.9011162293,-81.3212651387,Collier,Florida,Python bivittatus,Burmese Python
+316639550,2023-07-20,"Ochopee, FL 34141, USA",25.7578916987,-80.9313839301,Monroe,Florida,Python bivittatus,Burmese Python
+316640389,2023-07-16,"Ochopee, FL 34141, USA",25.7610208954,-80.8835500851,Monroe,Florida,Python bivittatus,Burmese Python
+316640598,2023-07-23,"Ochopee, FL 34141, USA",25.7607083719,-80.9240789339,Monroe,Florida,Python bivittatus,Burmese Python
+316645979,2023-09-13,"Ochopee, FL 34141, USA",25.7245156194,-81.0235510021,Monroe,Florida,Python bivittatus,Burmese Python
+319505238,2025-08-12,"Homestead, FL, US",25.8868979824,-80.8386083158,Miami-Dade,Florida,Python bivittatus,Burmese Python
+320144575,2025-10-09,"Overseas Hwy, Key Largo, FL, US",25.1151166667,-80.4214783333,Monroe,Florida,Python bivittatus,Burmese Python
+320322072,2025-10-11,"CR-905A, Key Largo, FL, US",25.2843783333,-80.3108583333,Monroe,Florida,Python bivittatus,Burmese Python
+320498545,2020-07-25,"Florida, Miami-Dade, Miami, Pinewoods [sic] Park",25.6469551,-80.3572518,Miami-Dade,Florida,Pycnonotus jocosus,Red-whiskered Bulbul
+320498547,2020-07-25,"Florida, Miami-Dade, Miami, Pinewoods [sic] Park",25.6469551,-80.3572518,Miami-Dade,Florida,Zenaida asiatica,White-winged Dove
+320498551,2020-07-25,"Florida, Miami-Dade, Miami, Pinewoods [sic] Park",25.6469551,-80.3572518,Miami-Dade,Florida,Myiopsitta monachus,Monk Parakeet
+320498556,2020-07-25,"Florida, Miami-Dade, Miami, Pinewoods [sic] Park",25.6469551,-80.3572518,Miami-Dade,Florida,Zenaida asiatica,White-winged Dove
+320498557,2020-07-25,"Florida, Miami-Dade, Miami, Pinewoods [sic] Park",25.6469551,-80.3572518,Miami-Dade,Florida,Toxostoma rufum,Brown Thrasher
+320498560,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Psittacara mitratus,Mitred Parakeet
+320498565,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Alopochen aegyptiaca,Egyptian Goose
+320498566,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Columba livia domestica,Feral Pigeon
+320498567,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Anas platyrhynchos domesticus,Domestic Mallard
+320498577,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Quiscalus major westoni,Florida Boat-tailed Grackle
+320498578,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Passer domesticus,House Sparrow
+320498580,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Alopochen aegyptiaca,Egyptian Goose
+320498587,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Psittacara mitratus,Mitred Parakeet
+320498588,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Gallinula galeata,Common Gallinule
+320498589,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Cairina moschata domestica,Domestic Muscovy Duck
+320498593,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Cairina moschata domestica,Domestic Muscovy Duck
+320498594,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Cairina moschata domestica,Domestic Muscovy Duck
+320498595,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Psittacara mitratus,Mitred Parakeet
+320498599,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Cairina moschata domestica,Domestic Muscovy Duck
+320498601,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Cairina moschata domestica,Domestic Muscovy Duck
+320498602,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Alopochen aegyptiaca,Egyptian Goose
+320498608,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Brotogeris chiriri,Yellow-chevroned Parakeet
+320498610,2020-07-25,"Florida, Miami-Dade, Kendall, Kendall Baptist Hospital",25.6868060398,-80.3393174942,Miami-Dade,Florida,Quiscalus major westoni,Florida Boat-tailed Grackle
+320498613,2020-07-25,"Florida, Miami-Dade, Miami, Dolphin Mall, American Coot Lake",25.7848552214,-80.3765524644,Miami-Dade,Florida,Porphyrio poliocephalus,Gray-headed Swamphen
+320498616,2020-07-25,"Florida, Miami-Dade, Miami, Dolphin Mall, American Coot Lake",25.7848552214,-80.3765524644,Miami-Dade,Florida,Porphyrio poliocephalus,Gray-headed Swamphen
+320498617,2020-07-25,"Florida, Miami-Dade, Miami, Dolphin Mall, American Coot Lake",25.7848552214,-80.3765524644,Miami-Dade,Florida,Porphyrio poliocephalus,Gray-headed Swamphen
+320498619,2020-07-25,"Florida, Miami-Dade, NW Homestead, ""sparrow fields"" south of SW 168th Street and west of the C-111",25.60227,-80.532692,Miami-Dade,Florida,Butorides virescens,Green Heron
+320498622,2020-07-25,"Florida, Miami-Dade, NW Homestead, ""sparrow fields"" south of SW 168th Street and west of the C-111",25.60227,-80.532692,Miami-Dade,Florida,Schinus terebinthifolia,Brazilian pepper
+320498624,2020-07-25,"Florida, Miami-Dade, NW Homestead, ""sparrow fields"" south of SW 168th Street and west of the C-111",25.60227,-80.532692,Miami-Dade,Florida,Schinus terebinthifolia,Brazilian pepper
+320498626,2020-07-25,"Florida, Miami-Dade, NW Homestead, ""sparrow fields"" south of SW 168th Street and west of the C-111",25.60227,-80.532692,Miami-Dade,Florida,Ardea alba,Great Egret
+320498630,2020-07-25,"Florida, Miami-Dade, NW Homestead, ""sparrow fields"" south of SW 168th Street and west of the C-111",25.60227,-80.532692,Miami-Dade,Florida,Schinus terebinthifolia,Brazilian pepper
+320498631,2020-07-25,"Florida, Miami-Dade, NW Homestead, ""sparrow fields"" south of 168th Street and west of the C-111",25.6038056579,-80.5327321268,Miami-Dade,Florida,Buteo lineatus,Red-shouldered Hawk
+320498634,2020-07-25,"Florida, Miami-Dade, NW Homestead, 168th Street at SW 208th Avenue",25.6086171545,-80.529103552,Miami-Dade,Florida,Python bivittatus,Burmese Python
+320498636,2020-07-25,"Florida, Miami-Dade, Miami, 9105 SW 162nd Avenue, Panera Bread",25.6827147,-80.4548054,Miami-Dade,Florida,Acridotheres tristis,Common Myna
+320498638,2020-07-25,"Florida, Monroe, Key Largo, Dagny Johnson Key Largo Hammock Botanical State Park",25.184676,-80.362222,Monroe,Florida,Dryas iulia,Julia Heliconian
+320498639,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Quiscalus quiscula,Common Grackle
+320498643,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Tyrannus dominicensis,Gray Kingbird
+320498645,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Sturnus vulgaris,European Starling
+320498646,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Columbina passerina,Common Ground Dove
+320498649,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Myiopsitta monachus,Monk Parakeet
+320498654,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Tyrannus dominicensis,Gray Kingbird
+320498655,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Tyrannus dominicensis,Gray Kingbird
+320498657,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Mimus polyglottos,Northern Mockingbird
+320498658,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Streptopelia decaocto,Eurasian Collared-Dove
+320498659,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Columbina passerina,Common Ground Dove
+320498664,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Zenaida macroura,Mourning Dove
+320498665,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Eudocimus albus,White Ibis
+320498666,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Molothrus ater,Brown-headed Cowbird
+320498669,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Quiscalus quiscula,Common Grackle
+320498671,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Myiopsitta monachus,Monk Parakeet
+320498672,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Sturnus vulgaris,European Starling
+320498679,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Streptopelia decaocto,Eurasian Collared-Dove
+320498684,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Tyrannus dominicensis,Gray Kingbird
+320498686,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Acridotheres tristis,Common Myna
+320498687,2020-07-25,"Florida, Monroe, Key Largo, YMCA Park",25.0925205359,-80.4381457455,Monroe,Florida,Cardisoma guanhumi,Blue Land Crab
+322337037,2025-10-21,"Homestead, FL, US",25.3923216667,-80.5283133333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+322361166,2025-10-19,"Miami-Dade County, FL, USA",25.4742908726,-80.3716214415,Miami-Dade,Florida,Python bivittatus,Burmese Python
+322455449,2025-10-22,"Tamiami Trail E, Ochopee, FL, US",25.8848666667,-81.25598,Collier,Florida,Python bivittatus,Burmese Python
+322476920,2025-08-31,"Broward County, FL, USA",26.332582,-80.7601,Broward,Florida,Python bivittatus,Burmese Python
+322741861,2024-08-19,"Belle Glade, FL, US",26.3878832126,-80.7983352069,Palm Beach,Florida,Python bivittatus,Burmese Python
+323723139,2025-10-24,"Main Park Rd, FL, US",25.1639695,-80.9116666667,Monroe,Florida,Python bivittatus,Burmese Python
+324367825,2025-11-01,"Turtle Island, Naples, FL, US",26.0500524511,-81.7008261818,Collier,Florida,Python bivittatus,Burmese Python
+324760027,2025-11-02,"Tamiami Trail E, Naples, FL, US",25.920405,-81.40418,Collier,Florida,Python bivittatus,Burmese Python
+325235139,2025-10-10,"Florida, US",25.2689727041,-80.3020770958,Monroe,Florida,Python bivittatus,Burmese Python
+325598098,2025-11-08,"Fort Lauderdale, FL, US",26.1396195,-80.4616466667,Broward,Florida,Python bivittatus,Burmese Python
+325957677,2025-11-04,"Miami-Dade County, FL, USA",25.3995575786,-80.5696035973,Miami-Dade,Florida,Python bivittatus,Burmese Python
+326837974,2025-11-16,"Naples, FL 34114, USA",26.0215756418,-81.4217095077,Collier,Florida,Python bivittatus,Burmese Python
+326906246,2025-08-22,"Florida, US",26.2191709303,-80.7556708007,Broward,Florida,Python bivittatus,Burmese Python
+328293856,2025-11-24,"Big Cypress National Preserve, Ochopee, FL, US",25.8705177901,-81.1137687888,Collier,Florida,Python bivittatus,Burmese Python
+328447235,2025-11-26,"Country Club, FL, USA",25.9387752547,-80.3217796341,Miami-Dade,Florida,Python bivittatus,Burmese Python
+328989308,2025-11-06,"US 1 & SW 145 Av, Naranja, FL 33032, USA",25.5169097752,-80.4307026789,Miami-Dade,Florida,Python bivittatus,Burmese Python
+329491433,2025-12-01,"Oil Well Rd, Naples, FL, US",26.29353,-81.5130216667,Collier,Florida,Python bivittatus,Burmese Python
+329859135,2025-12-07,"Ingraham Highway, Homestead, FL, US",25.3844938008,-80.6219760329,Miami-Dade,Florida,Python bivittatus,Burmese Python
+329937801,2025-12-07,"Miami-Dade County, FL, USA",25.3835005343,-80.6206920474,Miami-Dade,Florida,Python bivittatus,Burmese Python
+330284094,2025-12-10,"Main Park Rd, Homestead, FL, US",25.2268916667,-80.8322966667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+330508074,2025-11-16,"Florida, US",26.1730706418,-81.3588660217,Collier,Florida,Python bivittatus,Burmese Python
+330914281,2025-12-15,"Collier County, US-FL, US",26.0441907138,-81.6056727916,Collier,Florida,Python bivittatus,Burmese Python
+331314033,2025-12-18,"Florida, US",25.9168503616,-81.7559076794,Collier,Florida,Python bivittatus,Burmese Python
+331620205,2025-12-21,"Cutler Bay, FL, USA",25.5667820959,-80.3263086578,Miami-Dade,Florida,Python bivittatus,Burmese Python
+332206193,2025-11-24,"Miami-Dade County, US-FL, US",25.7615319803,-80.542308649,Miami-Dade,Florida,Python bivittatus,Burmese Python
+332206206,2025-11-23,"Miami-Dade County, US-FL, US",25.4136004904,-80.4742565458,Miami-Dade,Florida,Python bivittatus,Burmese Python
+332206222,2025-11-21,"Florida, US",25.7117887956,-80.8802045296,Miami-Dade,Florida,Python bivittatus,Burmese Python
+332233837,2025-11-27,"Country Club, FL, USA",25.9387786491,-80.3215786836,Miami-Dade,Florida,Python bivittatus,Burmese Python
+333395949,2025-12-30,"Miami-Dade County, FL, USA",25.7546484114,-80.7665508747,Miami-Dade,Florida,Python bivittatus,Burmese Python
+333779442,2026-01-06,"Collier-Seminole State Park, Naples, FL, US",25.9905277851,-81.6119584733,Collier,Florida,Python bivittatus,Burmese Python
+333935395,2026-01-07,"North Key Largo, FL 33037, USA",25.3128544011,-80.295541808,Monroe,Florida,Python bivittatus,Burmese Python
+334675307,2026-01-13,"Everglades National Park, Homestead, FL, US",25.23637,-80.8167033333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+335271247,2026-01-18,"Miami Dade County Trail, Homestead, FL, US",25.4172366667,-80.57363,Miami-Dade,Florida,Python bivittatus,Burmese Python
+335428931,2025-11-08,"FL, US",25.3039416667,-81.0715111667,Monroe,Florida,Python bivittatus,Burmese Python
+335739195,2026-01-22,"SW Eighth St, Homestead, FL, US",25.7617900897,-80.8149825848,Miami-Dade,Florida,Python bivittatus,Burmese Python
+335892199,2026-01-11,"Kendall, FL 33156, USA",25.6795830276,-80.2744103596,Miami-Dade,Florida,Python bivittatus,Burmese Python
+336384092,2021-02-18,"Naples, FL, US",26.0654971667,-81.523195,Collier,Florida,Python bivittatus,Burmese Python
+337278470,2025-11-21,"Miami-Dade County, FL, USA",25.7618271107,-80.8212661751,Miami-Dade,Florida,Python bivittatus,Burmese Python
+337278542,2025-11-23,"Miami-Dade County, FL, USA",25.4254013149,-80.5014181253,Miami-Dade,Florida,Python bivittatus,Burmese Python
+337278567,2025-11-24,"Miami-Dade County, FL, USA",25.6989784777,-80.4790574325,Miami-Dade,Florida,Python bivittatus,Burmese Python
+337580278,2026-02-06,"Miami-Dade County, Everglades National Park, US-FL, US",25.704587716,-80.7668240752,Miami-Dade,Florida,Python bivittatus,Burmese Python
+337718878,2026-02-06,"Florida, US",25.3580497673,-80.3143580292,Monroe,Florida,Python bivittatus,Burmese Python
+338101056,2026-02-10,"Naples, FL, US",25.9949734991,-81.6055749302,Collier,Florida,Python bivittatus,Burmese Python
+338128005,2025-06-25,"Main Park Rd, Homestead, FL, US",25.27712,-80.7984383333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+338714415,2026-02-15,"Everglades National Park, Homestead, FL, US",25.3818866667,-80.6183783333,Miami-Dade,Florida,Python bivittatus,Burmese Python
+339291803,2025-08-16,"Florida, US",25.274100547,-80.7874019916,Miami-Dade,Florida,Python bivittatus,Burmese Python
+339586940,2026-01-11,"Hendry County, US-FL, US",26.2691615198,-80.9604632677,Hendry,Florida,Python bivittatus,Burmese Python
+341420717,2026-03-05,"Fort Lauderdale, FL, US",25.971855,-80.5407333333,Broward,Florida,Python bivittatus,Burmese Python
+341421003,2026-03-05,"Homestead, FL, US",25.9528533333,-80.555245,Miami-Dade,Florida,Python bivittatus,Burmese Python
+342376475,2013-07-11,"Miami-Dade County, FL, USA",25.2992854179,-80.7993291395,Miami-Dade,Florida,Python bivittatus,Burmese Python
+342642163,2026-03-10,"Florida, US",26.1199288867,-80.4596997571,Broward,Florida,Python bivittatus,Burmese Python
+343275003,2026-03-16,"Miami-Dade County, Everglades National Park, US-FL, US",25.2579062538,-80.7983979955,Miami-Dade,Florida,Python bivittatus,Burmese Python
+343436452,2026-03-16,"Florida, US",25.293403795,-80.6298583559,Miami-Dade,Florida,Python bivittatus,Burmese Python
+343914197,2026-03-19,"Florida, US",25.3051902931,-80.2960557457,Monroe,Florida,Python bivittatus,Burmese Python
+344022787,2026-03-17,"Broward County, FL, USA",26.1451083333,-80.6258777778,Broward,Florida,Python bivittatus,Burmese Python
+344222054,2025-12-30,"Shark Valley Loop Rd, Homestead, FL, US",25.7567971362,-80.7664744782,Miami-Dade,Florida,Python bivittatus,Burmese Python
+344672950,2026-03-16,"Florida, US",25.8376509003,-80.4758774096,Broward,Florida,Python bivittatus,Burmese Python
+344688156,2026-03-16,"Florida, US",25.2936956398,-80.7859592885,Miami-Dade,Florida,Python bivittatus,Burmese Python
+348284249,2024-11-15,"Big Cypress National Preserve, FL, US",25.7617040272,-81.0148981344,Monroe,Florida,Python bivittatus,Burmese Python
+348497269,2026-04-08,"Florida, US",25.3587197877,-80.2586196274,Monroe,Florida,Python bivittatus,Burmese Python
+348648643,2026-04-09,"Everglades National Park, Homestead, FL, US",25.2112166667,-80.8581,Miami-Dade,Florida,Python bivittatus,Burmese Python
+348648837,2026-04-09,"Everglades National Park, Homestead, FL, US",25.43978,-80.7825,Miami-Dade,Florida,Python bivittatus,Burmese Python
+350515327,2026-03-22,"Big Cypress National Preserve, Ochopee, FL, US",25.85417301,-80.9329599095,Collier,Florida,Python bivittatus,Burmese Python
+350693170,2026-04-17,"Monroe County, US-FL, US",25.1836313588,-80.3621645272,Monroe,Florida,Python bivittatus,Burmese Python
+351780765,2020-04-20,"Miami, FL 33194, USA",25.8095374929,-80.5408760905,Miami-Dade,Florida,Python bivittatus,Burmese Python
+354094304,2026-04-25,"Florida, US",25.2366684592,-80.3507939338,Monroe,Florida,Python bivittatus,Burmese Python
+354409913,2026-04-25,"Main Park Rd, Homestead, FL, US",25.3415616667,-80.81482,Miami-Dade,Florida,Python bivittatus,Burmese Python
+355341338,2019-09-20,"Florida, US",25.2410546443,-80.8223427742,Miami-Dade,Florida,Python bivittatus,Burmese Python
+357461073,2026-05-02,"Homestead, FL 33034, USA",25.403889042,-80.4537877813,Miami-Dade,Florida,Python bivittatus,Burmese Python
+358189923,2026-05-03,"Everglades National Park, Homestead, FL, US",25.278975,-80.798425,Miami-Dade,Florida,Python bivittatus,Burmese Python
+358195328,2018-10-14,"Florida, US",25.3303135641,-80.9079532786,Miami-Dade,Florida,Python bivittatus,Burmese Python
+358200892,2026-05-03,"Miami-Dade County, FL, USA",25.2495198862,-80.798034668,Miami-Dade,Florida,Python bivittatus,Burmese Python
+358201375,2026-05-04,"Miami-Dade County, US-FL, US",25.4237608809,-80.4668581858,Miami-Dade,Florida,Python bivittatus,Burmese Python
+358255362,2026-05-03,"Miami-Dade County, Everglades National Park, US-FL, US",25.2789383333,-80.79843,Miami-Dade,Florida,Python bivittatus,Burmese Python
+358283200,2026-05-03,"Fort Lauderdale, FL, US",26.3338966721,-80.5489966667,Broward,Florida,Python bivittatus,Burmese Python
+358731206,2022-12-02,"Miami-Dade County, Everglades National Park, US-FL, US",25.3705159478,-80.816972293,Miami-Dade,Florida,Python bivittatus,Burmese Python
+359910880,2026-05-03,"Main Park Rd, Homestead, FL, US",25.278995,-80.79843,Miami-Dade,Florida,Python bivittatus,Burmese Python
+361090401,2026-05-13,"Miami-Dade County, US-FL, US",25.3752923198,-80.4352201894,Miami-Dade,Florida,Python bivittatus,Burmese Python
+362513820,2026-01-11,"W Feeder Rd, Clewiston, FL, US",26.292205,-81.0123277833,Hendry,Florida,Python bivittatus,Burmese Python
+362970904,2026-05-19,"Miami-Dade County, US-FL, US",25.40028711,-80.4689338803,Miami-Dade,Florida,Python bivittatus,Burmese Python
+362978563,2026-05-18,"Florida, US",25.3524494129,-80.2413869108,Monroe,Florida,Python bivittatus,Burmese Python
+363112223,2026-05-19,"Florida, US",26.0464966416,-80.4210694002,Broward,Florida,Python bivittatus,Burmese Python
+363671486,2026-05-05,"Main Park Rd, Homestead, FL, US",25.2767966667,-80.7983466667,Miami-Dade,Florida,Python bivittatus,Burmese Python
+364050235,2026-05-22,"Naples, FL 34117, USA",26.1271355,-81.4966667997,Collier,Florida,Python bivittatus,Burmese Python
+365769206,2026-05-15,"Florida, US",25.3762275988,-80.8798896918,Miami-Dade,Florida,Python bivittatus,Burmese Python
+366437782,2026-05-10,"Collier County, FL, USA",26.095492,-81.650906,Collier,Florida,Python bivittatus,Burmese Python
+366769563,2026-05-30,"24775 SW 87th Ave, Homestead, FL 33032, USA",25.5393774,-80.3280965,Miami-Dade,Florida,Python bivittatus,Burmese Python
+367153513,2025-07-28,"Florida, US",26.2517482051,-80.495001016,Palm Beach,Florida,Python bivittatus,Burmese Python
+367155015,2025-07-28,"Florida, US",26.276111266,-80.7326947494,Broward,Florida,Python bivittatus,Burmese Python
+367957355,2026-06-03,"Miami-Dade County, US-FL, US",25.4249542377,-80.4675793648,Miami-Dade,Florida,Python bivittatus,Burmese Python
+367963365,2026-06-03,"Miami-Dade County, US-FL, US",25.3747079688,-80.4766797647,Miami-Dade,Florida,Python bivittatus,Burmese Python
